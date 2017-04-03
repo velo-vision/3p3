@@ -1,0 +1,6535 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Eram\n"
+"POT-Creation-Date: 2017-02-28 19:12+0330\n"
+"PO-Revision-Date: 2017-01-07 12:17+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: comments.php:20
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40
+msgid "&#8612; Older "
+msgstr ""
+
+#: comments.php:45
+msgid "Newer &#8614;"
+msgstr ""
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: framework/class-eram-client-customizer.php:57
+msgid "Clients Settings"
+msgstr ""
+
+#: framework/class-eram-client-customizer.php:64
+msgid "List Page"
+msgstr ""
+
+#: framework/class-eram-client-customizer.php:65
+msgid "Here you can edit archive page of Clients"
+msgstr ""
+
+#: framework/class-eram-client-customizer.php:72
+msgid "Clients Page"
+msgstr ""
+
+#: framework/class-eram-client-customizer.php:73
+msgid "Here you can edit Single Client settings"
+msgstr ""
+
+#: framework/class-eram-client-customizer.php:97
+msgid "Disable List of Clients"
+msgstr ""
+
+#: framework/class-eram-client-customizer.php:98
+msgid "Toggle off if you prefer to not have a list of clients."
+msgstr ""
+
+#: framework/class-eram-client-customizer.php:108
+#: framework/class-eram-gallery-customizer.php:237
+#: framework/class-eram-portfolio-customizer.php:509
+msgid "Include Title and Description"
+msgstr ""
+
+#: framework/class-eram-client-customizer.php:123
+#: framework/class-eram-portfolio-customizer.php:291
+msgid "Page Title"
+msgstr ""
+
+#: framework/class-eram-client-customizer.php:125
+#: partials/client/archive.php:42
+msgid "Awesome Clients"
+msgstr ""
+
+#: framework/class-eram-client-customizer.php:143
+#: framework/class-eram-gallery-customizer.php:761
+#: framework/class-eram-portfolio-customizer.php:306
+msgid "Short Description"
+msgstr ""
+
+#: framework/class-eram-client-customizer.php:163
+#: framework/class-eram-gallery-customizer.php:278
+#: framework/class-eram-portfolio-customizer.php:519
+#: framework/class-eram-theme-customizer.php:2568
+#: framework/functions-metabox.php:97 framework/vc/eram_price_table/init.php:23
+#: framework/vc/eram_video/init.php:21
+msgid "Cover Image"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:71
+msgid "Load Gallery"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:89
+msgid "Gallery Settings"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:96
+#: framework/class-eram-portfolio-customizer.php:146
+#: framework/class-eram-theme-customizer.php:120
+msgid "General Settings"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:97
+msgid "Here you can edit General settings of Gallery"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:105
+#: framework/class-eram-portfolio-customizer.php:155
+msgid "Archive Page"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:106
+msgid "Here you can edit archive page of Eram Gallery"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:114
+#: framework/class-eram-portfolio-customizer.php:164
+msgid "Categories"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:115
+msgid "Here you can edit gallery categories"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:123
+msgid "Lightbox"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:124
+msgid "Here you can edit gallery lightbox"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:156
+msgid "Change Gallery URL?"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:167
+#: framework/class-eram-portfolio-customizer.php:223
+msgid "URL segment"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:168
+#: framework/class-eram-portfolio-customizer.php:224
+#, php-format
+msgid ""
+"<code>IMPORTANT:</code> After changing this, go to <a href=\"%s\">Permalink "
+"Settings</a> and just hit Save."
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:185
+#: framework/class-eram-portfolio-customizer.php:241
+msgid "Change Category URL?"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:186
+#: framework/class-eram-portfolio-customizer.php:242
+msgid "Currently is:"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:196
+#: framework/class-eram-portfolio-customizer.php:252
+msgid "Category URL segment"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:197
+#: framework/class-eram-portfolio-customizer.php:253
+#, php-format
+msgid ""
+"<code>IMPORTANT:</code> After changing this, go to <a href=\"%s\">Permalink "
+"Settings</a> and just hit Save.<br> Dont use <strong>category</strong> it is "
+"already used for blog."
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:214
+msgid "Gallery Hover Style"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:254
+msgid "Position of Title and Description"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:259
+msgid "Side of the page"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:260
+msgid "Top of the Page"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:300
+#: framework/class-eram-portfolio-customizer.php:537
+msgid "Layout of Thumbnails"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:321
+msgid "Image Height"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:326
+#: framework/class-eram-gallery-customizer.php:509
+msgid "Auto"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:327
+msgid "Fixed size"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:342
+msgid "Height of images (px)"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:370
+#: framework/class-eram-gallery-customizer.php:414
+msgid "Number of Rows"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:392
+#: framework/class-eram-gallery-customizer.php:436
+#: framework/class-eram-portfolio-customizer.php:576
+#: framework/class-eram-portfolio-customizer.php:599
+#: framework/class-eram-theme-customizer.php:2952
+msgid "Number of Columns"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:458
+#: framework/class-eram-portfolio-customizer.php:621
+msgid "Thumbnail Aspect Ratio"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:480
+#: framework/class-eram-portfolio-customizer.php:643
+msgid "Height of each row"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:484
+#: framework/class-eram-portfolio-customizer.php:647
+msgid "in pixels"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:503
+msgid "Thumbnail Width"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:510
+#: framework/kirki/includes/class-kirki-l10n.php:115
+msgid "Fixed"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:525
+msgid "Define Width"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:553
+msgid "Transition Duration (seconds)"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:575
+msgid "Auto Play"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:592
+msgid "Pagination Links"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:608
+msgid "Next/Previous Links"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:625
+#: framework/class-eram-portfolio-customizer.php:666
+msgid "Items Spacing"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:634
+msgid ""
+"Define the desired gutter width (spacing between items in the gallery). "
+"Value is in pixels and default is 15px"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:648
+#: framework/class-eram-portfolio-customizer.php:683
+msgid "Animation"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:653
+#: framework/class-eram-portfolio-customizer.php:321
+#: framework/class-eram-portfolio-customizer.php:688
+msgid "none"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:654
+#: framework/class-eram-portfolio-customizer.php:689
+msgid "Fade In"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:655
+#: framework/class-eram-portfolio-customizer.php:690
+msgid "Slide Fade In"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:670
+#: framework/class-eram-portfolio-customizer.php:698
+msgid "Enable Social Sharing"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:680
+#: framework/class-eram-portfolio-customizer.php:708
+msgid "Page Load Enhancement"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:684
+#: framework/class-eram-portfolio-customizer.php:712
+msgid ""
+"Notice: Infinite Scroll option wont preview while viewing in customizer!"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:686
+#: framework/class-eram-portfolio-customizer.php:714
+msgid "Lazy load Images"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:687
+#: framework/class-eram-portfolio-customizer.php:715
+msgid "Infinite Scroll"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:688
+#: framework/class-eram-portfolio-customizer.php:716
+#: framework/class-eram-theme-customizer.php:17
+#: framework/class-eram-theme-customizer.php:556
+#: framework/class-eram-theme-customizer.php:600
+#: framework/class-eram-theme-customizer.php:3168
+#: framework/class-eram-theme-customizer.php:3222
+#: framework/kirki/includes/class-kirki-l10n.php:204
+#: framework/option-tree/includes/ot-functions-docs-page.php:440
+#: framework/option-tree/includes/ot-functions-docs-page.php:444
+#: framework/option-tree/includes/ot-functions-docs-page.php:490
+#: framework/option-tree/includes/ot-functions-docs-page.php:494
+#: framework/vc/eram_rail_carousel/init.php:53
+#: framework/vc/eram_video/init.php:40
+msgid "None"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:703
+#: framework/class-eram-portfolio-customizer.php:724
+msgid "Image Chunk Count"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:733
+#: framework/class-eram-gallery-customizer.php:735
+msgid "Archive Title"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:799
+#: framework/class-eram-portfolio-customizer.php:445
+msgid "Select Category"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:822
+#: framework/class-eram-portfolio-customizer.php:475
+msgid "-- Select --"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:848
+msgid "Lightbox Theme"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:854
+msgid "Theme Default"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:855
+#: framework/class-eram-theme-customizer.php:768
+#: framework/demo-importer/class-importer.php:200
+#: framework/demo-importer/class-importer.php:232
+#: framework/demo-importer/class-importer.php:264
+#: framework/demo-importer/class-importer.php:296
+#: framework/demo-importer/class-importer.php:312
+#: framework/demo-importer/class-importer.php:328
+msgid "Light"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:856
+#: framework/class-eram-theme-customizer.php:769
+#: framework/class-eram-theme-customizer.php:3057
+#: framework/demo-importer/class-importer.php:216
+#: framework/demo-importer/class-importer.php:248
+#: framework/demo-importer/class-importer.php:280
+#: framework/vc/eram_btn/init.php:67
+msgid "Dark"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:864
+msgid "Image Transition"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:870
+msgid "slide"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:871
+msgid "fade"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:872
+msgid "zoom-in"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:873
+msgid "zoom-in-big"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:874
+msgid "zoom-out"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:875
+msgid "zoom-out-big"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:876
+msgid "zoom-out-in"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:877
+msgid "zoom-in-out"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:878
+msgid "soft-zoom"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:879
+msgid "scale-up"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:880
+msgid "slide-circular"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:881
+msgid "slide-circular-vertical"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:882
+msgid "slide-vertical"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:883
+msgid "slide-vertical-growth"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:884
+msgid "slide-skew-only"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:885
+msgid "slide-skew-only-rev"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:886
+msgid "slide-skew-only-y"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:887
+msgid "slide-skew-only-y-rev"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:888
+msgid "slide-skew"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:889
+msgid "slide-skew-rev"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:890
+msgid "slide-skew-cross"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:891
+msgid "slide-skew-cross-rev"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:892
+msgid "slide-skew-ver"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:893
+msgid "slide-skew-ver-rev"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:894
+msgid "slide-skew-ver-cross"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:895
+msgid "slide-skew-ver-cross-rev"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:896
+msgid "lollipop"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:897
+msgid "lollipop-rev"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:898
+msgid "rotate"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:899
+msgid "rotate-rev"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:900
+msgid "tube"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:908
+msgid "Space Around Photo"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:922
+msgid "Show Caption"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:931
+msgid "Include Image Title in Caption"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:940
+msgid "Allow Download"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:949
+msgid "Show Counter"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:958
+msgid "Show Prev/Next Buttons"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:967
+msgid "keyboard navigation"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:976
+msgid "Enable Esc key"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:985
+msgid "Loop"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:994
+msgid "Enable thumbnails"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:1003
+msgid "Show thumbnails by default"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:1012
+msgid "Enable autoplay"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:1021
+msgid "Enable autoplay progress bar"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:1030
+msgid "Enable zoom"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:1039
+msgid "Sidebar Settings"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:1040
+msgid "You can enable/disable Sidebar within each gallery live builder."
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:1049
+msgid "Sidebar - Image Title"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:1058
+msgid "Sidebar - Description"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:1067
+msgid "Sidebar - EXIF"
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:1068
+msgid ""
+"To show EXIF data, you need to install and activate the Exifography Plugin."
+msgstr ""
+
+#: framework/class-eram-gallery-customizer.php:1077
+msgid "Sidebar - Sharing Button"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:111
+msgid "Load Portfolio"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:135
+msgid "Portfolio Settings"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:147
+msgid "Here you can edit general setting for portfolio"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:156
+msgid "Here you can edit archive page of Portfolio"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:165
+msgid "Here you can edit archive page of Portfolio Categories"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:173
+msgid "Single Page"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:174
+msgid "Here you can edit Single Portfolio settings"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:212
+msgid "Change Portfolio URL?"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:270
+msgid "Portfolio Hover Style"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:293
+msgid "Awesome Portfolio"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:322
+msgid "Portfolio Category"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:323
+msgid "Client Name"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:324
+msgid "Year"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:335
+msgid "Filter By:"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:362
+msgid "Show next/prev links"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:371
+msgid "Enable Sharing Icons"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:375
+msgid "Enable/Disable Sharing Icons at portfolio single page"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:381
+msgid "Enable Client Field"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:390
+msgid "Enable URL Field"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:399
+msgid "Enable Date Field"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:407
+msgid "Portfolio Custom Fields"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:412
+msgid "field"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:414
+msgid "You can add custom fields for portfolio items."
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:420
+#: framework/class-eram-theme-customizer.php:2760
+msgid "Unique Name"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:421
+#: framework/class-eram-theme-customizer.php:2761
+msgid "Give it a unique familiar name to use later."
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:426
+#: framework/option-tree/includes/ot-functions-admin.php:3273
+#: framework/option-tree/includes/ot-functions-admin.php:3324
+#: framework/option-tree/includes/ot-functions-docs-page.php:43
+#: framework/option-tree/includes/ot-functions-docs-page.php:428
+#: framework/option-tree/includes/ot-functions-docs-page.php:478
+#: framework/vc/eram_double_carousel/init.php:138
+#: framework/vc/eram_rail_carousel/init.php:129
+msgid "Description"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:427
+#: framework/class-eram-portfolio-customizer.php:428
+msgid "A quick description about this field"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:553
+msgid "Item Height (in pxs)"
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:554
+msgid "Define the height of each portfolio item thumbnail."
+msgstr ""
+
+#: framework/class-eram-portfolio-customizer.php:675
+msgid ""
+"Define the desired gutter width (spacing between items in the list). Value "
+"is in pixels and default is 15px"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:93
+#: framework/class-eram-theme-customizer.php:94
+msgid "Theme Settings"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:99
+#: framework/class-eram-theme-customizer.php:100
+msgid "Blog Settings"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:106
+#: framework/class-eram-theme-customizer.php:107
+msgid "Shop Settings"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:123
+msgid "From this panel you control the general theme settings of your site."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:130
+#: framework/class-eram-theme-customizer.php:421
+msgid "Site Layout"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:133
+msgid "From this panel you control the layout settings."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:140
+msgid "Pages Headers"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:143
+msgid "From this panel you control the page headers settings."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:150
+msgid "Footer"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:153
+msgid "From this panel you can set pages footer section"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:160
+msgid "Site Color"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:163
+msgid "From this panel you control the color settings."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:170
+#: framework/option-tree/includes/ot-functions-admin.php:2460
+#: framework/option-tree/includes/ot-functions-docs-page.php:377
+msgid "Typography"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:173
+msgid "From this panel you can edit Typography."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:180
+msgid "Custom Front Page"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:183
+msgid "From this panel you control Front Page."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:191
+msgid "Password Protected Page"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:194
+msgid "From this panel you control the password protected pages."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:201
+msgid "404 Page"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:204
+msgid "From this panel you control the 404 page."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:211
+#: framework/class-eram-theme-customizer.php:554
+#: framework/class-eram-theme-customizer.php:598
+#: framework/class-eram-theme-customizer.php:2447
+#: framework/class-eram-theme-customizer.php:3166
+#: framework/class-eram-theme-customizer.php:3220
+msgid "Social Networks"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:214
+msgid "From this panel you set social networks"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:223
+msgid "Social Sharings"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:226
+msgid "From this panel you set social sharing icons"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:233
+#: framework/class-eram-theme-customizer.php:2748
+msgid "Sidebars"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:236
+msgid "From this panel you can add Dynamic sidebars."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:244
+msgid "Protection"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:247
+msgid "From this panel you can edit protection settings."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:254
+#: framework/class-eram-theme-customizer.php:2862
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:257
+msgid "From this panel you can add/edit custom CSS."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:264
+msgid "Custom Javascript"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:267
+msgid "From this panel you can add/edit custom JavaScript."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:274
+msgid "Blog Archives"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:277
+msgid ""
+"From this panel you can configure blog archives, main list, taxonomy "
+"archives , etc."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:285
+msgid "Blog Posts"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:288
+msgid "From this panel you can configure blog posts"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:297
+#: framework/option-tree/includes/ot-functions-admin.php:1068
+msgid "General"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:306
+msgid "Products Archive"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:317
+msgid "Single Product"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:359
+msgid "Retina Logo"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:360
+msgid "2x version of your logo"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:376
+msgid "Default Image Sizes"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:377
+msgid ""
+"Considering page load time, theme tries to use a 1000px variation of your "
+"uploaded images where possible in gallery and portfolio. If you want to load "
+"a higher/lower qualities, change it here. <br> <strong>Extra Large is added "
+"at v2.0, so you need to regenerate thumbnails to use it.</strong>"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:382
+msgid "Default (1000 x infinite height)"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:383
+msgid "Large (1500 x infinite height)"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:384
+msgid "Medium (768 x infinite height)"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:385
+msgid "Full (original size uploaded)"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:392
+msgid "Breadcrumbs"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:393
+msgid "Enable/Disable Breadcrumbs"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:404
+msgid "Google Map API key"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:409
+msgid ""
+"Go to https://console.developers.google.com/<br/>Under Google Map's Api's "
+"choose Google Maps JavaScript API<br/>Enable the Api.<br/>Go to credentials "
+"section.Choose create Credentials.<br/>choose API Key from the popup,and "
+"then choose browser key from the proceeding popup."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:437
+msgid "Header Type"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:442
+msgid "Wide"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:443
+#: framework/class-eram-theme-customizer.php:3035
+msgid "Contained"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:458
+msgid "Add background color to transparent header on scroll"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:475
+msgid "Always show sidebar"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:476
+msgid "Show/Hide Sidebar when page loads"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:493
+msgid "Sidebar Social Icons"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:494
+#: framework/class-eram-theme-customizer.php:592
+#: framework/class-eram-theme-customizer.php:655
+#: framework/class-eram-theme-customizer.php:3214
+msgid "Social networks can be added/edited in theme-settings->social networks"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:511
+msgid "Show Copyright text at Sidebar"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:512
+#: framework/class-eram-theme-customizer.php:548
+#: framework/class-eram-theme-customizer.php:3160
+msgid ""
+"Copyright text option is global and available in theme-settings->footer "
+"section"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:547
+msgid "Bottom left content"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:553
+#: framework/class-eram-theme-customizer.php:597
+#: framework/class-eram-theme-customizer.php:3165
+#: framework/class-eram-theme-customizer.php:3219
+msgid "Copyright text"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:555
+#: framework/class-eram-theme-customizer.php:599
+#: framework/class-eram-theme-customizer.php:3167
+#: framework/class-eram-theme-customizer.php:3221
+msgid "Custom HTML"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:569
+msgid "Bottom left text"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:570
+#: framework/class-eram-theme-customizer.php:614
+#: framework/class-eram-theme-customizer.php:3187
+#: framework/class-eram-theme-customizer.php:3241
+msgid "Supports HTML codes too."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:591
+msgid "Bottom right content"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:613
+msgid "Bottom right text"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:654
+msgid "Top Social Icons"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:672
+#: framework/option-tree/includes/ot-functions-admin.php:2455
+#: framework/option-tree/includes/ot-functions-docs-page.php:293
+msgid "Text"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:673
+msgid "Some text below social icons. leave blank if you don't want it."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:690
+msgid "Header Padding"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:691
+msgid "space the contents of the header from edges of the page."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:713
+msgid "Side Menu Background Image"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:734
+msgid "Mobile Menu"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:739
+#: framework/functions-menus.php:23
+msgid "Primary Menu"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:740
+#: framework/functions-menus.php:24
+msgid "Secondary Menu"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:763
+msgid "Color Scheme"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:777
+msgid "More Color Customizations"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:787
+#: framework/class-eram-theme-customizer.php:1534
+msgid "Headings Color"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:827
+#: framework/class-eram-theme-customizer.php:1575
+msgid "Paragraph Color"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:857
+#: framework/class-eram-theme-customizer.php:1606
+#: framework/kirki/includes/class-kirki-l10n.php:104
+msgid "Background Color"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:892
+#: framework/class-eram-theme-customizer.php:1642
+msgid "Boxed Elements Background Color"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:928
+#: framework/class-eram-theme-customizer.php:1679
+msgid "Border Color"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:964
+#: framework/class-eram-theme-customizer.php:1716
+#: framework/option-tree/includes/ot-functions-admin.php:2434
+#: framework/option-tree/includes/ot-functions-docs-page.php:177
+msgid "Link Color"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:995
+#: framework/class-eram-theme-customizer.php:1747
+msgid "Footer Background Color"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:1033
+#: framework/class-eram-theme-customizer.php:1785
+msgid "Footer Border Color"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:1071
+#: framework/class-eram-theme-customizer.php:1823
+msgid "Footer Bottom Background Color"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:1109
+#: framework/class-eram-theme-customizer.php:1861
+msgid "Footer Bottom - Border Color"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:1147
+#: framework/class-eram-theme-customizer.php:1899
+msgid "Sidebar Background"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:1183
+#: framework/class-eram-theme-customizer.php:1935
+msgid "Menu Item Color"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:1223
+#: framework/class-eram-theme-customizer.php:1976
+msgid "Active Menu Item Color"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:1263
+#: framework/class-eram-theme-customizer.php:2017
+msgid "Frame color"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:1298
+#: framework/class-eram-theme-customizer.php:2053
+msgid "Header Background"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:1333
+#: framework/class-eram-theme-customizer.php:1373
+#: framework/class-eram-theme-customizer.php:2089
+#: framework/class-eram-theme-customizer.php:2130
+msgid "Menu item color"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:1414
+#: framework/class-eram-theme-customizer.php:2172
+msgid "Active Menu item color"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:1449
+#: framework/class-eram-theme-customizer.php:2208
+msgid "Sub-Menu background color"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:1490
+#: framework/class-eram-theme-customizer.php:2249
+msgid "Sub-Menu link color"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2295
+#: framework/class-eram-theme-customizer.php:2414
+#: framework/option-tree/includes/ot-functions-admin.php:4420
+#: framework/option-tree/includes/ot-meta-box-api.php:231
+#: framework/option-tree/includes/ot-settings-api.php:610
+#: framework/vc/eram_double_carousel/init.php:131
+#: framework/vc/eram_rail_carousel/init.php:122
+#: framework/vc/eram_testimonial/init.php:29
+msgid "Title"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2297
+msgid "Password Protected Area"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2303
+#: framework/class-eram-theme-customizer.php:2422
+#: framework/vc/eram_free_caption/init.php:36
+msgid "Description Text"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2305
+msgid "This area is restricted and you need a password to access it."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2311
+#: framework/class-eram-theme-customizer.php:2430
+#: framework/kirki/includes/class-kirki-l10n.php:105
+#: framework/vc/eram_rail_carousel/init.php:107
+msgid "Background Image"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2312
+#: framework/class-eram-theme-customizer.php:2431
+msgid "Page Background Image"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2325
+msgid "Use Parallax for Page Headers"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2333
+msgid "Page Top Headers Height"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2334
+msgid ""
+"Some pages will use top header with cover image. This sets how much of the "
+"page will be covered by the header, in percent of page height"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2348
+msgid "Add Overlay to Page Headers"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2357
+msgid "Custom Colors"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2366
+#: framework/functions-metabox.php:167
+msgid "Page Header Overlay Color"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2390
+msgid "Page Header Contents Color"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2416
+msgid "[ 404 ]"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2424
+msgid "We were unable to find that page!"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2452
+msgid "Social"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2459
+msgid "Media"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2465
+#: framework/option-tree/includes/ot-functions-admin.php:5515
+msgid "Link URL"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2476
+msgid "choone one"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2477
+#: framework/functions-helpers.php:409 framework/functions-helpers.php:652
+#: framework/functions-helpers.php:1163 framework/functions-metabox.php:446
+#: framework/option-tree/includes/ot-functions-option-types.php:2282
+msgid "Facebook"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2478
+#: framework/functions-helpers.php:413 framework/functions-helpers.php:648
+#: framework/functions-helpers.php:1164 framework/functions-metabox.php:445
+#: framework/option-tree/includes/ot-functions-option-types.php:2287
+msgid "Twitter"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2479
+#: framework/functions-helpers.php:421
+#: framework/option-tree/includes/ot-functions-option-types.php:2327
+msgid "Digg"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2480
+#: framework/functions-helpers.php:1167
+#: framework/option-tree/includes/ot-functions-option-types.php:2297
+msgid "LinkedIn"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2481
+#: framework/functions-helpers.php:417 framework/functions-helpers.php:1168
+msgid "Google Plus"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2482
+#: framework/functions-helpers.php:425 framework/functions-helpers.php:668
+#: framework/functions-helpers.php:1170 framework/functions-metabox.php:450
+#: framework/option-tree/includes/ot-functions-option-types.php:2302
+msgid "Pinterest"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2483
+#: framework/functions-helpers.php:433
+#: framework/option-tree/includes/ot-functions-option-types.php:2337
+msgid "Tumblr"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2484
+#: framework/functions-helpers.php:437
+msgid "Reddit"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2485
+#: framework/functions-helpers.php:441
+#: framework/option-tree/includes/ot-functions-option-types.php:2332
+msgid "Delicious"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2490
+msgid "Social Websites"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2495
+msgid "website"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2502
+msgid "Website"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2515
+msgid "Archive Layout"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2529
+msgid "Show Title"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2530
+msgid "Show Title ( and description) at top of the page."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2538
+msgid "Blog Title"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2540
+msgid "Our Journal"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2553
+msgid "Blog Description"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2585
+#: framework/class-eram-theme-customizer.php:2678
+msgid "Select Sidebar"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2595
+#: framework/class-eram-theme-customizer.php:2695
+msgid "Show Author"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2596
+msgid "Show post author linked name"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2605
+#: framework/class-eram-theme-customizer.php:2715
+msgid "Show Date"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2606
+msgid "Show post dates"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2616
+msgid "Show Categories"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2617
+msgid "Show post linked categories"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2626
+msgid "Show Post Excerpt"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2627
+msgid "Show post excerpt"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2643
+msgid "Show Read More Link"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2644
+msgid "Show a read more link for each post"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2664
+msgid "Post Page Layout"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2696
+msgid "Show post author name?"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2704
+msgid "Show Author Bio and Contacts"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2705
+msgid "Show post author biography?"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2707
+msgid "Each author can set contacts at their profile."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2716
+msgid "Show post date?"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2725
+msgid "Show Post Categories"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2726
+msgid "Show post linked categories?"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2734
+msgid "Show Post Tags"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2735
+msgid "Show post linked tags?"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2753
+msgid "sidebar"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2773
+msgid "Front Page"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2778
+msgid "Inherit from WordPress Settings"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2779
+msgid "Galleries Archive"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2782
+msgid "Portfolio Archive"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2792
+msgid "Headings"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2815
+msgid "Body Texts"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2839
+msgid "Right-click protect"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2840
+msgid ""
+"Disables right click context menu and shows a copyright notification "
+"instead, when user right clicks."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2848
+msgid "Copyright Notice text"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2849
+msgid ""
+"Small note that will be shown upon right click. Leave empty to hide the "
+"message."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2881
+msgid "Footer Javascript"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2882
+msgid ""
+"<code>&#x3C;script&#x3E;&#x3C;/script&#x3E;</code> tags are optional.<br>It "
+"is recommended to add your custom JavaScript in footer unless you are "
+"required to add it in the header."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2895
+msgid "Header Javascript"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2896
+msgid "<code>&#x3C;script&#x3E;&#x3C;/script&#x3E;</code>tags are optional."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2913
+msgid "Shop Layout"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2918
+#: framework/vc/eram_single_gallery/init.php:58
+msgid "Full"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2919
+msgid "Sidebar Right"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2920
+msgid "Sidebar Left"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2928
+msgid "Shop Header"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2933
+#: framework/vc/eram_free_caption/init.php:61
+msgid "Simple"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2934
+msgid "With Background"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2935
+msgid "Hide Header"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2943
+msgid "Show Sorting"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2965
+msgid "Per Page Products"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2966
+msgid "Select the number of products to be shown at each page"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2990
+msgid "Accent Color"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:2998
+msgid "Photo Gallery Background"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3009
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3010
+msgid "Global copyright text which is also used in site layouts"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3012
+msgid "&#169; All Rights Reserved."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3020
+msgid "Show Footer"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3021
+msgid "Show/Hide footer globally"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3030
+msgid "Footer layout width"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3031
+msgid "Available width for footer contents"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3034
+msgid "Full width"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3051
+msgid "Footer color theme"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3056
+msgid "Default - follow theme main color"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3071
+msgid "Footer widgets"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3072
+msgid "Enable/Disable Widgetizing footer"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3088
+msgid "Widget columns"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3089
+msgid "Number of widget columns"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3094
+msgid "One Column"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3095
+msgid "Two Columns"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3096
+msgid "Three Columns"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3097
+msgid "Four Columns"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3098
+msgid "Six Columns"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3116
+msgid "Bottom bar display"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3117
+msgid "Show/Hide bottom bar"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3133
+msgid "Bottom bar layout "
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3134
+msgid ""
+"In side mode, first element would be on left and second element on right "
+"side of the bottom bar"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3159
+msgid "Bottom First element"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3186
+msgid "Bottom First element text"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3213
+msgid "Bottom second element"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3240
+msgid "Bottom second element text"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3267
+msgid "Show footer on Blog"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3268
+msgid ""
+"If turned ON, it will show footer at Blog whenever possible layout-wise."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3285
+msgid "Show footer on Galleries"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3286
+msgid ""
+"If turned ON, it will show footer at galleries whenever possible layout-wise."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3304
+msgid "Show footer on Portfolios"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3305
+msgid ""
+"If turned ON, it will show footer at portfolios whenever possible layout-"
+"wise."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3322
+msgid "Show footer on Clients"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3323
+msgid ""
+"If turned ON, it will show footer at Clients pages whenever possible layout-"
+"wise."
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3340
+msgid "Show footer on Proof Galleries"
+msgstr ""
+
+#: framework/class-eram-theme-customizer.php:3341
+msgid ""
+"If turned ON, it will show footer at Proof Galleries whenever possible "
+"layout-wise."
+msgstr ""
+
+#: framework/demo-importer/class-importer.php:199
+msgid "Main Demo Light"
+msgstr ""
+
+#: framework/demo-importer/class-importer.php:207
+#: framework/demo-importer/class-importer.php:223
+#: framework/demo-importer/class-importer.php:239
+#: framework/demo-importer/class-importer.php:255
+#: framework/demo-importer/class-importer.php:271
+#: framework/demo-importer/class-importer.php:287
+#: framework/demo-importer/class-importer.php:303
+#: framework/demo-importer/class-importer.php:319
+#: framework/demo-importer/class-importer.php:335
+msgid ""
+"Make sure that you have a fresh installation of WordPress before import or "
+"use \"WordPress Reset\" plugin to  reset your website."
+msgstr ""
+
+#: framework/demo-importer/class-importer.php:215
+msgid "Main Demo Dark"
+msgstr ""
+
+#: framework/demo-importer/class-importer.php:231
+msgid "Demo 1"
+msgstr ""
+
+#: framework/demo-importer/class-importer.php:247
+msgid "Demo 2"
+msgstr ""
+
+#: framework/demo-importer/class-importer.php:263
+msgid "Demo 3"
+msgstr ""
+
+#: framework/demo-importer/class-importer.php:279
+msgid "Demo 4"
+msgstr ""
+
+#: framework/demo-importer/class-importer.php:295
+msgid "Demo 5"
+msgstr ""
+
+#: framework/demo-importer/class-importer.php:311
+msgid "Demo 6"
+msgstr ""
+
+#: framework/demo-importer/class-importer.php:327
+msgid "Demo 7"
+msgstr ""
+
+#: framework/functions-extra-hooks.php:116
+msgid "Post type Archives"
+msgstr ""
+
+#: framework/functions-extra-hooks.php:162
+msgid "Add to Menu"
+msgstr ""
+
+#: framework/functions-extra-hooks.php:222
+msgid "No Clients Found"
+msgstr ""
+
+#: framework/functions-helpers.php:18
+msgid "Pages:"
+msgstr ""
+
+#: framework/functions-helpers.php:333
+msgid "Password:"
+msgstr ""
+
+#: framework/functions-helpers.php:333
+msgid "Send"
+msgstr ""
+
+#: framework/functions-helpers.php:429
+msgid "LinkeIn"
+msgstr ""
+
+#: framework/functions-helpers.php:457
+msgid "Share"
+msgstr ""
+
+#: framework/functions-helpers.php:644
+msgid "My Website"
+msgstr ""
+
+#: framework/functions-helpers.php:656 framework/functions-metabox.php:447
+msgid "Google +"
+msgstr ""
+
+#: framework/functions-helpers.php:660 framework/functions-helpers.php:1165
+#: framework/functions-metabox.php:448
+msgid "Instagram"
+msgstr ""
+
+#: framework/functions-helpers.php:664 framework/functions-helpers.php:1166
+#: framework/functions-metabox.php:449
+msgid "500px"
+msgstr ""
+
+#: framework/functions-helpers.php:675
+msgid "Keep up with me on"
+msgstr ""
+
+#: framework/functions-helpers.php:767 framework/functions-helpers.php:782
+#: framework/kirki/includes/class-kirki-l10n.php:131
+#: partials/portfolio/archive.php:96 partials/proofgallery/single.php:119
+msgid "All"
+msgstr ""
+
+#: framework/functions-helpers.php:1169
+msgid "YouTube"
+msgstr ""
+
+#: framework/functions-helpers.php:1171
+#: framework/option-tree/includes/ot-functions-option-types.php:2352
+msgid "Vimeo"
+msgstr ""
+
+#: framework/functions-metabox.php:22
+msgid "Page Layout"
+msgstr ""
+
+#: framework/functions-metabox.php:30
+#: framework/option-tree/includes/ot-functions-docs-page.php:444
+#: framework/option-tree/includes/ot-functions-docs-page.php:494
+#: framework/option-tree/includes/ot-functions-docs-page.php:498
+#: framework/option-tree/includes/ot-functions-docs-page.php:502
+#: framework/option-tree/includes/ot-functions-docs-page.php:506
+#: framework/vc/eram_btn/init.php:60
+#: framework/vc/eram_single_gallery/init.php:57
+msgid "Default"
+msgstr ""
+
+#: framework/functions-metabox.php:35
+msgid "Top Header"
+msgstr ""
+
+#: framework/functions-metabox.php:40
+msgid "Side Image"
+msgstr ""
+
+#: framework/functions-metabox.php:45
+msgid "Blank Page"
+msgstr ""
+
+#: framework/functions-metabox.php:51
+msgid "Show Page Title"
+msgstr ""
+
+#: framework/functions-metabox.php:54
+#, php-format
+msgid ""
+"Shows the page title when set to %s. If you wan to build the page title "
+"using Visual composer you can turn it off."
+msgstr ""
+
+#: framework/functions-metabox.php:60
+msgid "Cover Type"
+msgstr ""
+
+#: framework/functions-metabox.php:63
+msgid "Choose type of cover."
+msgstr ""
+
+#: framework/functions-metabox.php:71
+#: framework/option-tree/includes/ot-functions-admin.php:862
+#: framework/option-tree/includes/ot-functions-admin.php:3251
+#: framework/option-tree/includes/ot-functions-admin.php:3312
+#: framework/vc/eram_double_carousel/init.php:124
+#: framework/vc/eram_mask_image/init.php:21
+#: framework/vc/eram_rail_carousel/init.php:100
+#: framework/vc/eram_team_members/init.php:23
+#: framework/vc/eram_testimonial/init.php:22
+msgid "Image"
+msgstr ""
+
+#: framework/functions-metabox.php:76
+#: framework/option-tree/includes/ot-functions-admin.php:5612
+msgid "Video"
+msgstr ""
+
+#: framework/functions-metabox.php:81
+msgid "Google Map"
+msgstr ""
+
+#: framework/functions-metabox.php:87
+msgid "Video MP4"
+msgstr ""
+
+#: framework/functions-metabox.php:90
+msgid "Upload and use a short video as cover."
+msgstr ""
+
+#: framework/functions-metabox.php:100
+msgid "Background image of the header"
+msgstr ""
+
+#: framework/functions-metabox.php:107
+msgid "Short Description below title"
+msgstr ""
+
+#: framework/functions-metabox.php:110
+msgid "Use this to briefly summarize your page."
+msgstr ""
+
+#: framework/functions-metabox.php:117
+msgid "Address"
+msgstr ""
+
+#: framework/functions-metabox.php:120
+msgid "Your address"
+msgstr ""
+
+#: framework/functions-metabox.php:126
+msgid "Map Initial Zoom"
+msgstr ""
+
+#: framework/functions-metabox.php:130
+msgid "Choose the initial zoom of the map"
+msgstr ""
+
+#: framework/functions-metabox.php:136
+msgid "Map Maximum Zoom"
+msgstr ""
+
+#: framework/functions-metabox.php:140
+msgid "Choose the maximum zoom of the map"
+msgstr ""
+
+#: framework/functions-metabox.php:146
+msgid "Customize Page Header"
+msgstr ""
+
+#: framework/functions-metabox.php:150
+msgid ""
+"You can define the Page Header setting at the theme customizer, if you want "
+"to customize it for this page you can turn it on."
+msgstr ""
+
+#: framework/functions-metabox.php:157
+msgid "Page Header Overlay"
+msgstr ""
+
+#: framework/functions-metabox.php:162
+msgid "Add colored overlay to the page header"
+msgstr ""
+
+#: framework/functions-metabox.php:171
+msgid "Color of the overlay"
+msgstr ""
+
+#: framework/functions-metabox.php:177
+msgid "Page Header Content Color"
+msgstr ""
+
+#: framework/functions-metabox.php:181
+msgid "Color of the header contents"
+msgstr ""
+
+#: framework/functions-metabox.php:187
+msgid "Show Page Footer"
+msgstr ""
+
+#: framework/functions-metabox.php:191
+#, php-format
+msgid "Shows the page footer when set to %s."
+msgstr ""
+
+#: framework/functions-metabox.php:197
+msgid "Content Type"
+msgstr ""
+
+#: framework/functions-metabox.php:200
+msgid "How you want to contain the content?"
+msgstr ""
+
+#: framework/functions-metabox.php:207
+msgid "Normal Container"
+msgstr ""
+
+#: framework/functions-metabox.php:212
+msgid "Slim Container"
+msgstr ""
+
+#: framework/functions-metabox.php:224
+msgid "Transparent Header"
+msgstr ""
+
+#: framework/functions-metabox.php:229
+#, php-format
+msgid "Makes the header transparent when set to %s."
+msgstr ""
+
+#: framework/functions-metabox.php:242
+msgid "Page Settings"
+msgstr ""
+
+#: framework/functions-metabox.php:260
+msgid "Format Settings"
+msgstr ""
+
+#: framework/functions-metabox.php:268
+msgid "Post Format"
+msgstr ""
+
+#: framework/functions-metabox.php:277
+#: framework/option-tree/includes/ot-functions-docs-page.php:52
+msgid "Standard"
+msgstr ""
+
+#: framework/functions-metabox.php:282
+msgid "Aside"
+msgstr ""
+
+#: framework/functions-metabox.php:287
+msgid "Embeded Video"
+msgstr ""
+
+#: framework/functions-metabox.php:292
+msgid "Embeded Audio"
+msgstr ""
+
+#: framework/functions-metabox.php:297
+#: framework/option-tree/includes/ot-functions-admin.php:5552
+msgid "Quote"
+msgstr ""
+
+#: framework/functions-metabox.php:302 framework/functions-metabox.php:365
+#: framework/option-tree/includes/ot-functions-admin.php:3262
+#: framework/option-tree/includes/ot-functions-admin.php:3318
+#: framework/option-tree/includes/ot-functions-admin.php:5506
+msgid "Link"
+msgstr ""
+
+#: framework/functions-metabox.php:307
+#: framework/option-tree/includes/ot-functions-admin.php:2431
+#: framework/option-tree/includes/ot-functions-admin.php:5466
+#: framework/option-tree/includes/ot-functions-docs-page.php:168
+#: partials/client/archive.php:101
+msgid "Gallery"
+msgstr ""
+
+#: framework/functions-metabox.php:312
+#: framework/plugin-register/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: framework/functions-metabox.php:317
+msgid "Audio File"
+msgstr ""
+
+#: framework/functions-metabox.php:325
+msgid "Video Url"
+msgstr ""
+
+#: framework/functions-metabox.php:326 framework/functions-metabox.php:336
+#, php-format
+msgid "Input a video or audio link from of supported medias by wordpress. %s "
+msgstr ""
+
+#: framework/functions-metabox.php:326 framework/functions-metabox.php:336
+msgid "Supported medias"
+msgstr ""
+
+#: framework/functions-metabox.php:335
+msgid "Audio Url"
+msgstr ""
+
+#: framework/functions-metabox.php:345
+msgid "Quote text"
+msgstr ""
+
+#: framework/functions-metabox.php:346
+msgid "Quoted sentence"
+msgstr ""
+
+#: framework/functions-metabox.php:355
+msgid "Who Said That?"
+msgstr ""
+
+#: framework/functions-metabox.php:356
+msgid "The name of the person you are quoting from "
+msgstr ""
+
+#: framework/functions-metabox.php:366
+msgid "Url that you are referring to "
+msgstr ""
+
+#: framework/functions-metabox.php:375
+msgid "Images"
+msgstr ""
+
+#: framework/functions-metabox.php:384
+msgid "Twitter Status"
+msgstr ""
+
+#: framework/functions-metabox.php:386
+msgid "Get embed code from status of your twitter"
+msgstr ""
+
+#: framework/functions-metabox.php:394
+msgid "MP3 File"
+msgstr ""
+
+#: framework/functions-metabox.php:395
+msgid "Url of the .mp3 file"
+msgstr ""
+
+#: framework/functions-metabox.php:404
+msgid "OGG File"
+msgstr ""
+
+#: framework/functions-metabox.php:405
+msgid "Url of the .ogg file. You can leave this blank."
+msgstr ""
+
+#: framework/functions-metabox.php:430
+msgid "Set Image"
+msgstr ""
+
+#: framework/functions-styles-scripts.php:71
+msgid ""
+"You are commenting on a selected photo. The photo will be added to your "
+"comment as a reference."
+msgstr ""
+
+#: framework/functions-vc.php:75
+msgid "Theme Styled (if selected, other style settings will be ignored)"
+msgstr ""
+
+#: framework/functions-vc.php:104
+msgid "Tablet Height"
+msgstr ""
+
+#: framework/functions-vc.php:106
+msgid "When the screen is smaller than 1024px"
+msgstr ""
+
+#: framework/functions-vc.php:112
+msgid "Mobile Height"
+msgstr ""
+
+#: framework/functions-vc.php:114
+msgid "When the screen is smaller than 480px"
+msgstr ""
+
+#: framework/functions-widgets.php:21
+msgid "Sidebar Area"
+msgstr ""
+
+#: framework/functions-widgets.php:23
+msgid "Appears on posts and pages."
+msgstr ""
+
+#: framework/functions-widgets.php:33
+msgid "Footer Widgets"
+msgstr ""
+
+#: framework/functions-widgets.php:35
+msgid "Appears on page footer."
+msgstr ""
+
+#: framework/functions-widgets.php:46
+msgid "Shop Sidebar"
+msgstr ""
+
+#: framework/functions-widgets.php:48
+msgid "Appears on Shop."
+msgstr ""
+
+#: framework/functions-woo.php:279
+msgid "items"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:106
+msgid "No Repeat"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:107
+msgid "Repeat All"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:108
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:109
+msgid "Repeat Vertically"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:110
+msgid "Inherit"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:111
+msgid "Background Repeat"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:112
+msgid "Cover"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:113
+msgid "Contain"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:114
+msgid "Background Size"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:116
+msgid "Scroll"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:117
+msgid "Background Attachment"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:118
+msgid "Left Top"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:119
+msgid "Left Center"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:120
+msgid "Left Bottom"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:121
+msgid "Right Top"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:122
+msgid "Right Center"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:123
+msgid "Right Bottom"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:124
+msgid "Center Top"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:125
+msgid "Center Center"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:126
+msgid "Center Bottom"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:127
+msgid "Background Position"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:128
+msgid "Background Opacity"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:129
+msgid "ON"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:130
+msgid "OFF"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:132
+msgid "Cyrillic"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:133
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:134
+msgid "Devanagari"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:135
+msgid "Greek"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:136
+msgid "Greek Extended"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:137
+msgid "Khmer"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:138
+msgid "Latin"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:139
+msgid "Latin Extended"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:140
+msgid "Vietnamese"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:141
+msgid "Hebrew"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:142
+msgid "Arabic"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:143
+msgid "Bengali"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:144
+msgid "Gujarati"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:145
+msgid "Tamil"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:146
+msgid "Telugu"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:147
+msgid "Thai"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:148
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:149
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:150
+msgctxt "font style"
+msgid "Monospace"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:151
+msgid "Font Family"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:152
+msgid "Font Size"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:153
+msgid "Font Weight"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:154
+msgid "Line Height"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:155
+msgid "Font Style"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:156
+msgid "Letter Spacing"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:157
+msgid "Top"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:158
+msgid "Bottom"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:159
+#: framework/vc/eram_btn/init.php:117
+msgid "Left"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:160
+#: framework/vc/eram_btn/init.php:116
+msgid "Right"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:161
+msgid "Center"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:162
+msgid "Justify"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:163
+#: framework/vc/eram_btn/init.php:58
+msgid "Color"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:164
+msgid "Add Image"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:165
+msgid "Change Image"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:166
+msgid "No Image Selected"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:167
+msgid "Add File"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:168
+msgid "Change File"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:169
+msgid "No File Selected"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:170
+msgid "Remove"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:171
+msgid "Select a font-family"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:172
+msgid "Variant"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:173
+msgid "Subset"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:174
+#: framework/vc/eram_btn/init.php:35
+msgid "Size"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:175
+msgid "Height"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:176
+#: framework/option-tree/includes/ot-functions-admin.php:2449
+#: framework/option-tree/includes/ot-functions-docs-page.php:275
+msgid "Spacing"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:177
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:178
+msgid "Ultra-Light 100 Italic"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:179
+msgid "Light 200"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:180
+msgid "Light 200 Italic"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:181
+msgid "Book 300"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:182
+msgid "Book 300 Italic"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:183
+msgid "Normal 400"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:184
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:185
+msgid "Medium 500"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:186
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:187
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:188
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:189
+msgid "Bold 700"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:190
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:191
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:192
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:193
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:194
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:195
+msgid "Invalid Value"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:196
+msgid "Add new"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:197
+msgid "row"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:198
+#, php-format
+msgid "Limit: %s rows"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:199
+#: framework/kirki/includes/sections/class-kirki-sections-hover-section.php:40
+msgid "Press return or enter to open this section"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:200
+#: framework/kirki/includes/sections/class-kirki-sections-hover-section.php:46
+msgid "Back"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:201
+#, php-format
+msgid "%s Reset"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:202
+msgid "Text Align"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:203
+msgid "Text Transform"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:205
+msgid "Capitalize"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:206
+msgid "Uppercase"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:207
+msgid "Lowercase"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:208
+msgid "Initial"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:209
+msgid "Select a Page"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:210
+msgid "Open Editor"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:211
+msgid "Close Editor"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:212
+msgid "Switch Editor"
+msgstr ""
+
+#: framework/kirki/includes/class-kirki-l10n.php:213
+msgid "Hex Value"
+msgstr ""
+
+#: framework/option-tree/includes/ot-cleanup-api.php:84
+#: framework/option-tree/includes/ot-cleanup-api.php:101
+#: framework/option-tree/includes/ot-cleanup-api.php:130
+msgid "OptionTree Cleanup"
+msgstr ""
+
+#: framework/option-tree/includes/ot-cleanup-api.php:101
+#, php-format
+msgid ""
+"OptionTree has outdated data that should be removed. Please go to %s for "
+"more information."
+msgstr ""
+
+#: framework/option-tree/includes/ot-cleanup-api.php:136
+msgid "Multiple Media Posts"
+msgstr ""
+
+#: framework/option-tree/includes/ot-cleanup-api.php:138
+#, php-format
+msgid ""
+"There are currently %s OptionTree media posts in your database. At some "
+"point in the past, a version of OptionTree added multiple %s media post "
+"objects cluttering up your %s table. There is no associated risk or harm "
+"that these posts have caused other than to add size to your overall "
+"database. Thankfully, there is a way to remove all these orphaned media "
+"posts and get your database cleaned up."
+msgstr ""
+
+#: framework/option-tree/includes/ot-cleanup-api.php:140
+#, php-format
+msgid ""
+"By clicking the button below, OptionTree will delete %s records and "
+"consolidate them into one single OptionTree media post for uploading "
+"attachments to. Additionally, the attachments will have their parent ID "
+"updated to the correct media post."
+msgstr ""
+
+#: framework/option-tree/includes/ot-cleanup-api.php:142
+msgid ""
+"This could take a while to fully process depending on how many records you "
+"have in your database, so please be patient and wait for the script to "
+"finish."
+msgstr ""
+
+#: framework/option-tree/includes/ot-cleanup-api.php:144
+#, php-format
+msgid ""
+"%s Your server is running in safe mode. Which means this page will "
+"automatically reload after deleting %s posts, you can filter this number "
+"using %s if your server is having trouble processing that many at one time."
+msgstr ""
+
+#: framework/option-tree/includes/ot-cleanup-api.php:146
+msgid "Consolidate Posts"
+msgstr ""
+
+#: framework/option-tree/includes/ot-cleanup-api.php:174
+msgid "Reloading..."
+msgstr ""
+
+#: framework/option-tree/includes/ot-cleanup-api.php:210
+msgid "Clean up script has completed, the page will now reload..."
+msgstr ""
+
+#: framework/option-tree/includes/ot-cleanup-api.php:230
+msgid "Outdated Table"
+msgstr ""
+
+#: framework/option-tree/includes/ot-cleanup-api.php:232
+#, php-format
+msgid ""
+"If you have upgraded from an old 1.x version of OptionTree at some point, "
+"you have an extra %s table in your database that can be removed. It's not "
+"hurting anything, but does not need to be there. If you want to remove it. "
+"Click the button below."
+msgstr ""
+
+#: framework/option-tree/includes/ot-cleanup-api.php:234
+msgid "Drop Table"
+msgstr ""
+
+#: framework/option-tree/includes/ot-cleanup-api.php:238
+#, php-format
+msgid "Deleting the outdated and unused %s table..."
+msgstr ""
+
+#: framework/option-tree/includes/ot-cleanup-api.php:244
+#, php-format
+msgid "The %s table has been successfully deleted. The page will now reload..."
+msgstr ""
+
+#: framework/option-tree/includes/ot-cleanup-api.php:256
+#, php-format
+msgid "Something went wrong. The %s table was not deleted."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:50
+#: framework/option-tree/includes/ot-functions-admin.php:51
+#: framework/option-tree/includes/ot-functions-admin.php:169
+#: framework/option-tree/includes/ot-functions-admin.php:193
+#: framework/option-tree/includes/ot-functions.php:388
+msgid "Theme Options"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:56
+#: framework/option-tree/includes/ot-functions-admin.php:126
+#: framework/option-tree/includes/ot-functions-admin.php:220
+msgid "Theme Options updated."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:57
+#: framework/option-tree/includes/ot-functions-admin.php:127
+#: framework/option-tree/includes/ot-functions-admin.php:221
+msgid "Theme Options reset."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:58
+#: framework/option-tree/includes/ot-functions-settings-page.php:94
+#: framework/option-tree/includes/ot-functions-settings-page.php:133
+msgid "Save Changes"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:97
+msgid ""
+"The Theme Options UI Builder is being overridden by a custom file in your "
+"theme. Any changes you make via the UI Builder will not be saved."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:109
+#: framework/option-tree/includes/ot-functions-admin.php:110
+#: framework/option-tree/includes/ot-functions-docs-page.php:821
+msgid "OptionTree"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:120
+#: framework/option-tree/includes/ot-functions-admin.php:121
+#: framework/option-tree/includes/ot-functions-admin.php:163
+#: framework/option-tree/includes/ot-functions-admin.php:187
+#: framework/option-tree/includes/ot-functions-docs-page.php:49
+msgid "Settings"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:128
+#: framework/option-tree/includes/ot-functions-admin.php:222
+msgid "Save Settings"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:133
+msgid "Theme Options UI"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:137
+msgid "Import"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:141
+msgid "Export"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:145
+#: framework/option-tree/includes/ot-functions-admin.php:175
+#: framework/option-tree/includes/ot-functions-admin.php:199
+msgid "Layouts"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:151
+msgid "Theme Options UI Builder"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:157
+msgid "Settings XML"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:181
+msgid "Settings PHP File"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:205
+msgid "Layout Management"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:214
+#: framework/option-tree/includes/ot-functions-admin.php:215
+msgid "Documentation"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:227
+msgid "Creating Options"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:231
+msgid "Option Types"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:235
+msgid "Function References"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:239
+#: framework/option-tree/includes/ot-functions-admin.php:281
+#: framework/option-tree/includes/ot-functions-settings-page.php:366
+msgid "Theme Mode"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:243
+#: framework/option-tree/includes/ot-functions-admin.php:287
+msgid "Meta Boxes"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:247
+msgid "Code Examples"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:251
+msgid "Layouts Overview"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:257
+msgid "Overview of available Theme Option fields."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:263
+msgid "Option types in alphabetical order & hooks to filter them."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:269
+msgid "Function Reference:ot_get_option()"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:275
+msgid "Function Reference:get_option_tree()"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:293
+msgid "Code examples for front-end development."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:299
+msgid "What's a layout anyhow?"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:502
+#: framework/option-tree/includes/ot-functions-admin.php:604
+#: framework/option-tree/includes/ot-functions-admin.php:673
+#, php-format
+msgid "The %s input field for %s only allows numeric values."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:563
+#, php-format
+msgid "The %s Colorpicker only allows valid hexadecimal or rgba values."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:847
+#: framework/option-tree/includes/ot-functions-docs-page.php:398
+#: framework/option-tree/includes/ot-functions-settings-page.php:170
+#: framework/option-tree/ot-loader.php:787
+msgid "Send to OptionTree"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:848
+#: framework/option-tree/includes/ot-functions-option-types.php:257
+#: framework/option-tree/includes/ot-functions-option-types.php:3218
+msgid "Remove Media"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:849
+msgid "Are you sure you want to reset back to the defaults?"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:850
+msgid "You can't remove this! But you can edit the values."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:851
+msgid "Are you sure you want to remove this?"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:852
+msgid "Are you sure you want to activate this layout?"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:853
+msgid "Sorry, you can't have settings three levels deep."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:854
+#: framework/option-tree/includes/ot-functions-option-types.php:1159
+msgid "Delete Gallery"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:855
+#: framework/option-tree/includes/ot-functions-option-types.php:1160
+msgid "Edit Gallery"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:856
+#: framework/option-tree/includes/ot-functions-option-types.php:1167
+msgid "Create Gallery"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:857
+msgid "Are you sure you want to delete this Gallery?"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:858
+msgid "Today"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:859
+msgid "Now"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:860
+msgid "Close"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:861
+msgid "Featured Image"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:930
+msgid "Option Tree"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:1074
+msgid "Sample Text Field Label"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:1075
+msgid "Description for the sample text field."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2317
+msgid "Settings updated."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2321
+msgid "Settings could not be saved."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2329
+msgid "Settings Imported."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2333
+msgid "Settings could not be imported."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2340
+msgid "Data Imported."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2344
+msgid "Data could not be imported."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2352
+msgid "Layouts Imported."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2356
+msgid "Layouts could not be imported."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2364
+msgid "Layouts Updated."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2368
+msgid "Layouts could not be updated."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2372
+msgid "Layouts have been deleted."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2378
+msgid "Layout activated."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2417
+#: framework/option-tree/includes/ot-functions-docs-page.php:110
+msgid "Background"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2418
+#: framework/option-tree/includes/ot-functions-docs-page.php:113
+msgid "Border"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2419
+#: framework/option-tree/includes/ot-functions-docs-page.php:116
+msgid "Box Shadow"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2420
+#: framework/option-tree/includes/ot-functions-docs-page.php:119
+msgid "Category Checkbox"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2421
+#: framework/option-tree/includes/ot-functions-docs-page.php:122
+msgid "Category Select"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2422
+#: framework/option-tree/includes/ot-functions-docs-page.php:125
+msgid "Checkbox"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2423
+#: framework/option-tree/includes/ot-functions-docs-page.php:128
+msgid "Colorpicker"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2424
+#: framework/option-tree/includes/ot-functions-docs-page.php:131
+msgid "Colorpicker Opacity"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2425
+#: framework/option-tree/includes/ot-functions-docs-page.php:134
+msgid "CSS"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2426
+#: framework/option-tree/includes/ot-functions-docs-page.php:153
+msgid "Custom Post Type Checkbox"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2427
+#: framework/option-tree/includes/ot-functions-docs-page.php:156
+msgid "Custom Post Type Select"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2428
+#: framework/option-tree/includes/ot-functions-docs-page.php:159
+msgid "Date Picker"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2429
+#: framework/option-tree/includes/ot-functions-docs-page.php:162
+msgid "Date Time Picker"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2430
+#: framework/option-tree/includes/ot-functions-docs-page.php:165
+msgid "Dimension"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2432
+#: framework/option-tree/includes/ot-functions-docs-page.php:171
+msgid "Google Fonts"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2433
+#: framework/option-tree/includes/ot-functions-docs-page.php:174
+msgid "JavaScript"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2435
+#: framework/option-tree/includes/ot-functions-docs-page.php:180
+msgid "List Item"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2436
+#: framework/option-tree/includes/ot-functions-docs-page.php:183
+msgid "Measurement"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2437
+#: framework/option-tree/includes/ot-functions-docs-page.php:214
+msgid "Numeric Slider"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2438
+#: framework/option-tree/includes/ot-functions-docs-page.php:217
+msgid "On/Off"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2439
+#: framework/option-tree/includes/ot-functions-docs-page.php:220
+msgid "Page Checkbox"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2440
+#: framework/option-tree/includes/ot-functions-docs-page.php:223
+msgid "Page Select"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2441
+#: framework/option-tree/includes/ot-functions-docs-page.php:226
+msgid "Post Checkbox"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2442
+#: framework/option-tree/includes/ot-functions-docs-page.php:229
+msgid "Post Select"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2443
+#: framework/option-tree/includes/ot-functions-docs-page.php:232
+msgid "Radio"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2444
+#: framework/option-tree/includes/ot-functions-docs-page.php:235
+msgid "Radio Image"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2445
+#: framework/option-tree/includes/ot-functions-docs-page.php:262
+msgid "Select"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2446
+#: framework/option-tree/includes/ot-functions-docs-page.php:265
+msgid "Sidebar Select"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2447
+#: framework/option-tree/includes/ot-functions-docs-page.php:269
+msgid "Slider"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2448
+#: framework/option-tree/includes/ot-functions-docs-page.php:272
+msgid "Social Links"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2450
+#: framework/option-tree/includes/ot-functions-docs-page.php:278
+msgid "Tab"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2451
+#: framework/option-tree/includes/ot-functions-docs-page.php:281
+msgid "Tag Checkbox"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2452
+#: framework/option-tree/includes/ot-functions-docs-page.php:284
+msgid "Tag Select"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2453
+#: framework/option-tree/includes/ot-functions-docs-page.php:287
+msgid "Taxonomy Checkbox"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2454
+#: framework/option-tree/includes/ot-functions-docs-page.php:290
+msgid "Taxonomy Select"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2456
+#: framework/option-tree/includes/ot-functions-docs-page.php:296
+msgid "Textarea"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2457
+#: framework/option-tree/includes/ot-functions-docs-page.php:355
+msgid "Textarea Simple"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2458
+#: framework/option-tree/includes/ot-functions-docs-page.php:371
+msgid "Textblock"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2459
+#: framework/option-tree/includes/ot-functions-docs-page.php:374
+msgid "Textblock Titled"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:2461
+#: framework/option-tree/includes/ot-functions-docs-page.php:397
+msgid "Upload"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:3196
+msgid "Left Sidebar"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:3201
+msgid "Right Sidebar"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:3206
+msgid "Full Width (no sidebar)"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:3211
+msgid "Dual Sidebar"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:3216
+msgid "Left Dual Sidebar"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:3221
+msgid "Right Dual Sidebar"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:3388
+#: framework/vc/eram_team_members/init.php:30
+msgid "Name"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:3389
+msgid "Enter the name of the social website."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:3397
+msgid "Enter the text shown in the title attribute of the link."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:3403
+#, php-format
+msgid ""
+"Enter a link to the profile or page on the social website. Remember to add "
+"the %s part to the front of the link."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:3756
+#, php-format
+msgid "Unable to write to file %s."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4026
+msgid "edit"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4027
+#: framework/option-tree/includes/ot-functions-admin.php:4095
+#: framework/option-tree/includes/ot-functions-admin.php:4096
+#: framework/option-tree/includes/ot-functions-admin.php:4258
+#: framework/option-tree/includes/ot-functions-admin.php:4259
+#: framework/option-tree/includes/ot-functions-admin.php:4324
+#: framework/option-tree/includes/ot-functions-admin.php:4325
+#: framework/option-tree/includes/ot-functions-admin.php:4452
+#: framework/option-tree/includes/ot-functions-admin.php:4453
+#: framework/option-tree/includes/ot-functions-admin.php:4605
+#: framework/option-tree/includes/ot-functions-admin.php:4606
+msgid "Edit"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4029
+#: framework/option-tree/includes/ot-functions-admin.php:4030
+#: framework/option-tree/includes/ot-functions-admin.php:4098
+#: framework/option-tree/includes/ot-functions-admin.php:4099
+#: framework/option-tree/includes/ot-functions-admin.php:4261
+#: framework/option-tree/includes/ot-functions-admin.php:4262
+#: framework/option-tree/includes/ot-functions-admin.php:4327
+#: framework/option-tree/includes/ot-functions-admin.php:4328
+#: framework/option-tree/includes/ot-functions-admin.php:4386
+#: framework/option-tree/includes/ot-functions-admin.php:4387
+#: framework/option-tree/includes/ot-functions-admin.php:4455
+#: framework/option-tree/includes/ot-functions-admin.php:4456
+#: framework/option-tree/includes/ot-functions-admin.php:4608
+#: framework/option-tree/includes/ot-functions-admin.php:4609
+msgid "Delete"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4036
+msgid ""
+"<strong>Section Title</strong>: Displayed as a menu item on the Theme "
+"Options page."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4044
+msgid ""
+"<strong>Section ID</strong>: A unique lower case alphanumeric string, "
+"underscores allowed."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4105
+msgid ""
+"<strong>Label</strong>: Displayed as the label of a form element on the "
+"Theme Options page."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4113
+#: framework/option-tree/includes/ot-functions-admin.php:4342
+msgid ""
+"<strong>ID</strong>: A unique lower case alphanumeric string, underscores "
+"allowed."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4121
+msgid ""
+"<strong>Type</strong>: Choose one of the available option types from the "
+"dropdown."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4132
+msgid ""
+"<strong>Description</strong>: Enter a detailed description for the users to "
+"read on the Theme Options page, HTML is allowed. This is also where you "
+"enter content for both the Textblock & Textblock Titled option types."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4140
+msgid ""
+"<strong>Choices</strong>: This will only affect the following option types: "
+"Checkbox, Radio, Select & Select Image."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4145
+msgid "Add Choice"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4151
+msgid ""
+"<strong>Settings</strong>: This will only affect the List Item option type."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4156
+#: framework/option-tree/includes/ot-functions-settings-page.php:93
+msgid "Add Setting"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4162
+msgid ""
+"<strong>Standard</strong>: Setting the standard value for your option only "
+"works for some option types. Read the <code>OptionTree->Documentation</code> "
+"for more information on which ones."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4170
+msgid ""
+"<strong>Rows</strong>: Enter a numeric value for the number of rows in your "
+"textarea. This will only affect the following option types: CSS, Textarea, & "
+"Textarea Simple."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4178
+msgid ""
+"<strong>Post Type</strong>: Add a comma separated list of post type like "
+"'post,page'. This will only affect the following option types: Custom Post "
+"Type Checkbox, & Custom Post Type Select."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4186
+msgid ""
+"<strong>Taxonomy</strong>: Add a comma separated list of any registered "
+"taxonomy like 'category,post_tag'. This will only affect the following "
+"option types: Taxonomy Checkbox, & Taxonomy Select."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4194
+msgid ""
+"<strong>Min, Max, & Step</strong>: Add a comma separated list of options in "
+"the following format <code>0,100,1</code> (slide from <code>0-100</code> in "
+"intervals of <code>1</code>). The three values represent the minimum, "
+"maximum, and step options and will only affect the Numeric Slider option "
+"type."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4202
+msgid "<strong>CSS Class</strong>: Add and optional class to this option type."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4210
+#, php-format
+msgid ""
+"<strong>Condition</strong>: Add a comma separated list (no spaces) of "
+"conditions in which the field will be visible, leave this setting empty to "
+"always show the field. In these examples, <code>value</code> is a "
+"placeholder for your condition, which can be in the form of %s."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4218
+msgid ""
+"<strong>Operator</strong>: Choose the logical operator to compute the result "
+"of the conditions."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4221
+#: framework/option-tree/includes/ot-functions-docs-page.php:111
+#: framework/option-tree/includes/ot-functions-docs-page.php:378
+msgid "and"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4222
+msgid "or"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4268
+#: framework/option-tree/includes/ot-functions-docs-page.php:29
+msgid "Label"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4278
+msgid "Value"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4288
+msgid "Image Source (Radio Image only)"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4334
+msgid ""
+"<strong>Title</strong>: Displayed as a contextual help menu item on the "
+"Theme Options page."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4350
+msgid ""
+"<strong>Content</strong>: Enter the HTML content about this contextual help "
+"item displayed on the Theme Option page for end users to read."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4381
+msgid "Layout"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4383
+#: framework/option-tree/includes/ot-functions-admin.php:4384
+#: framework/plugin-register/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:4760
+msgid "New Layout"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:5522
+msgid "Link Title"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:5561
+msgid "Source Name (ex. author, singer, actor)"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:5568
+msgid "Source URL"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:5575
+msgid "Source Title (ex. book, song, movie)"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:5582
+msgid "Source Date"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:5621
+#, php-format
+msgid ""
+"Embed video from services like Youtube, Vimeo, or Hulu. You can find a list "
+"of supported oEmbed sites in the %1$s. Alternatively, you could use the "
+"built-in %2$s shortcode."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:5621
+#: framework/option-tree/includes/ot-functions-admin.php:5660
+msgid "Wordpress Codex"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:5651
+msgid "Audio"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-admin.php:5660
+#, php-format
+msgid ""
+"Embed audio from services like SoundCloud and Rdio. You can find a list of "
+"supported oEmbed sites in the %1$s. Alternatively, you could use the built-"
+"in %2$s shortcode."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:30
+msgid ""
+"The Label field should be a short but descriptive block of text 100 "
+"characters or less with no HTML."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:32
+msgid "ID"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:33
+msgid ""
+"The ID field is a unique alphanumeric key used to differentiate each theme "
+"option (underscores are acceptable). Also, the plugin will change all text "
+"you write in this field to lowercase and replace spaces and special "
+"characters with an underscore automatically."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:35
+#: framework/plugin-register/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:36
+msgid ""
+"You are required to choose one of the supported option types when creating a "
+"new option. Here is a list of the available option types. For more "
+"information about each type click the <code>Option Types</code> tab to the "
+"left."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:44
+msgid ""
+"Enter a detailed description for the users to read on the Theme Options "
+"page, HTML is allowed. This is also where you enter content for both the "
+"Textblock & Textblock Titled option types."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:46
+msgid "Choices"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:47
+msgid ""
+"Click the \"Add Choice\" button to add an item to the choices array. This "
+"will only affect the following option types: Checkbox, Radio, Select & "
+"Select Image."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:50
+msgid ""
+"Click the \"Add Setting\" button found inside a newly created setting to add "
+"an item to the settings array. This will only affect the List Item type."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:53
+msgid ""
+"Setting the standard value for your option only works for some option types. "
+"Those types are one that have a single string value saved to them and not an "
+"array of values."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:55
+msgid "Rows"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:56
+msgid ""
+"Enter a numeric value for the number of rows in your textarea. This will "
+"only affect the following option types: CSS, Textarea, & Textarea Simple."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:58
+msgid "Post Type"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:59
+msgid ""
+"Add a comma separated list of post type like <code>post,page</code>. This "
+"will only affect the following option types: Custom Post Type Checkbox, & "
+"Custom Post Type Select. Below are the default post types available with "
+"WordPress and that are also compatible with OptionTree. You can also add "
+"your own custom <code>post_type</code>. At this time <code>any</code> does "
+"not seem to return results properly and is something I plan on looking into."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:67
+msgid "Taxonomy"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:68
+msgid ""
+"Add a comma separated list of any registered taxonomy like <code>category,"
+"post_tag</code>. This will only affect the following option types: Taxonomy "
+"Checkbox, & Taxonomy Select."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:70
+msgid "Min, Max, & Step"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:71
+msgid ""
+"Add a comma separated list of options in the following format <code>0,100,1</"
+"code> (slide from <code>0-100</code> in intervals of <code>1</code>). The "
+"three values represent the minimum, maximum, and step options and will only "
+"affect the Numeric Slider option type."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:73
+msgid "CSS Class"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:74
+msgid "Add and optional class to any option type."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:76
+msgid "Condition"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:77
+#, php-format
+msgid ""
+"Add a comma separated list (no spaces) of conditions in which the field will "
+"be visible, leave this setting empty to always show the field. In these "
+"examples, %s is a placeholder for your condition, which can be in the form "
+"of %s."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:79
+msgid "Operator"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:80
+#, php-format
+msgid ""
+"Choose the logical operator to compute the result of the conditions. Your "
+"options are %s and %s."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:111
+#, php-format
+msgid ""
+"The Background option type is for adding background styles to your theme "
+"either dynamically via the CSS option type below or manually with %s. The "
+"Background option type has filters that allow you to remove fields or change "
+"the defaults. For example, you can filter %s to remove unwanted fields from "
+"all Background options or an individual one. You can also filter %s. These "
+"filters allow you to fine tune the select lists for your specific needs."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:114
+#, php-format
+msgid ""
+"The Border option type is used to set width, unit, style, and color values. "
+"The text input excepts a numerical value and the unit select lets you choose "
+"the unit of measurement to add to that value. Currently the default units "
+"are %s, %s, %s, and %s. However, you can change them with the %s filter. The "
+"style select lets you choose the border style. The default styles are %s, "
+"%s, %s, %s, %s, %s, %s, and %s. However, you can change them with the %s "
+"filter. The colorpicker saves a hexadecimal color code."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:117
+#, php-format
+msgid ""
+"The Box Shadow option type is used to set %s, %s, %s, %s, %s, and %s values."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:120
+msgid ""
+"The Category Checkbox option type displays a list of category IDs. It allows "
+"the user to check multiple category IDs and will return that value as an "
+"array for use in a custom function or loop."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:123
+msgid ""
+"The Category Select option type displays a list of category IDs. It allows "
+"the user to select only one category ID and will return that value for use "
+"in a custom function or loop."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:126
+msgid ""
+"The Checkbox option type displays a group of choices. It allows the user to "
+"check multiple choices and will return that value as an array for use in a "
+"custom function or loop."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:129
+msgid ""
+"The Colorpicker option type saves a hexadecimal color code for use in CSS. "
+"Use it to modify the color of something in your theme."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:132
+#, php-format
+msgid ""
+"The Colorpicker Opacity option type saves a hexadecimal color code with an "
+"opacity value from %s to %s in increments of %s. Though the value is saved "
+"as hexadecimal, if used within the CSS option type the color and opacity "
+"values will be converted into a valid RGBA CSS value."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:135
+#, php-format
+msgid ""
+"The CSS option type is a textarea that when used properly can add dynamic "
+"CSS to your theme from within OptionTree. Unfortunately, due server "
+"limitations you will need to create a file named %s at the root level of "
+"your theme and change permissions using %s so the server can write to the "
+"file. I have had the most success setting this single file to %s but feel "
+"free to play around with permissions until everything is working. A good "
+"starting point is %s. When the server can save to the file, CSS will "
+"automatically be updated when you save your Theme Options."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:137
+#, php-format
+msgid ""
+"This example assumes you have an option with the ID of %1$s. Which means "
+"this option will automatically insert the value of %1$s into the %2$s when "
+"the Theme Options are saved."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:139
+msgid "Input"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:145
+msgid "Output"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:154
+#, php-format
+msgid ""
+"The Custom Post Type Select option type displays a list of IDs from any "
+"available WordPress post type or custom post type. It allows the user to "
+"check multiple post IDs for use in a custom function or loop. Requires at "
+"least one valid %1$s in the %1$s field."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:157
+#, php-format
+msgid ""
+"The Custom Post Type Select option type displays a list of IDs from any "
+"available WordPress post type or custom post type. It will return a single "
+"post ID for use in a custom function or loop. Requires at least one valid "
+"%1$s in the %1$s field."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:160
+msgid ""
+"The Date Picker option type is tied to a standard form input field which "
+"displays a calendar pop-up that allow the user to pick any date when focus "
+"is given to the input field. The returned value is a date formatted string."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:163
+msgid ""
+"The Date Time Picker option type is tied to a standard form input field "
+"which displays a calendar pop-up that allow the user to pick any date and "
+"time when focus is given to the input field. The returned value is a date "
+"and time formatted string."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:166
+#, php-format
+msgid ""
+"The Dimension option type is used to set width and height values. The text "
+"inputs except numerical values and the select lets you choose the unit of "
+"measurement to add to that value. Currently the default units are %s, %s, "
+"%s, and %s. However, you can change them with the %s filter."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:169
+msgid ""
+"The Gallery option type saves a comma separated list of image attachment "
+"IDs. You will need to create a front-end function to display the images in "
+"your theme."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:172
+#, php-format
+msgid ""
+"The Google Fonts option type will dynamically enqueue any number of Google "
+"Web Fonts into the document %1$s. As well, once the option has been saved "
+"each font family will automatically be inserted into the %2$s array for the "
+"Typography option type. You can further modify the font stack by using the "
+"%3$s filter, which is passed the %4$s, %5$s, and %6$s parameters. The %6$s "
+"parameter is being passed from %7$s, so it will be the ID of a Typography "
+"option type. This will allow you to add additional web safe fonts to "
+"individual font families on an as-need basis."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:175
+#, php-format
+msgid ""
+"The JavaScript option type is a textarea that uses the %s code editor to "
+"highlight your JavaScript and display errors as you type."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:178
+msgid "The Link Color option type is used to set all link color states."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:181
+msgid ""
+"The List Item option type replaced the Slider option type and allows for a "
+"great deal of customization. You can add settings to the List Item and those "
+"settings will be displayed to the user when they add a new List Item. "
+"Typical use is for creating sliding content or blocks of code for custom "
+"layouts."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:184
+#, php-format
+msgid ""
+"The Measurement option type is a mix of input and select fields. The text "
+"input excepts a value and the select lets you choose the unit of measurement "
+"to add to that value. Currently the default units are %s, %s, %s, and %s. "
+"However, you can change them with the %s filter."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:186
+#, php-format
+msgid ""
+"Example filter to add new units to the Measurement option type. Added to %s."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:199
+msgid ""
+"Example filter to completely change the units in the Measurement option "
+"type. Added to <code>functions.php</code>."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:215
+msgid ""
+"The Numeric Slider option type displays a jQuery UI slider. It will return a "
+"single numerical value for use in a custom function or loop."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:218
+#, php-format
+msgid ""
+"The On/Off option type displays a simple switch that can be used to turn "
+"things on or off. The saved return value is either %s or %s."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:221
+msgid ""
+"The Page Checkbox option type displays a list of page IDs. It allows the "
+"user to check multiple page IDs for use in a custom function or loop."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:224
+msgid ""
+"The Page Select option type displays a list of page IDs. It will return a "
+"single page ID for use in a custom function or loop."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:227
+msgid ""
+"The Post Checkbox option type displays a list of post IDs. It allows the "
+"user to check multiple post IDs for use in a custom function or loop."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:230
+msgid ""
+"The Post Select option type displays a list of post IDs. It will return a "
+"single post ID for use in a custom function or loop."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:233
+msgid ""
+"The Radio option type displays a group of choices. It allows the user to "
+"choose one and will return that value as a string for use in a custom "
+"function or loop."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:236
+#, php-format
+msgid ""
+"the Radio Images option type is primarily used for layouts. However, you can "
+"filter the image list using %s. As well, you can add your own custom images "
+"using the choices array."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:238
+msgid ""
+"This example executes the <code>ot_radio_images</code> filter on layout "
+"images attached to the <code>my_radio_images</code> field. Added to "
+"<code>functions.php</code>."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:263
+msgid ""
+"The Select option type is used to list anything you want that would be "
+"chosen from a select list."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:266
+#, php-format
+msgid ""
+"This option type makes it possible for users to select a WordPress "
+"registered sidebar to use on a specific area. By using the two provided "
+"filters, %s, and %s we can be selective about which sidebars are available "
+"on a specific content area."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:267
+#, php-format
+msgid ""
+"For example, if we create a WordPress theme that provides the ability to "
+"change the Blog Sidebar and we don't want to have the footer sidebars "
+"available on this area, we can unset those sidebars either manually or by "
+"using a regular expression if we have a common name like %s."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:270
+msgid ""
+"The Slider option type is technically deprecated. Use the List Item option "
+"type instead, as it's infinitely more customizable. Typical use is for "
+"creating sliding image content."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:273
+#, php-format
+msgid ""
+"The Social Links option type utilizes a drag & drop interface to create a "
+"list of social links. There are a few filters that make extending this "
+"option type easy. You can set the %s filter to %s and turn off loading "
+"default values. Use the %s filter to change the default values that are "
+"loaded. To filter the settings array use the %s filter."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:276
+#, php-format
+msgid ""
+"The Spacing option type is used to set spacing values such as padding or "
+"margin in the form of top, right, bottom, and left. The text inputs except "
+"numerical values and the select lets you choose the unit of measurement to "
+"add to that value. Currently the default units are %s, %s, %s, and %s. "
+"However, you can change them with the %s filter."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:279
+msgid ""
+"The Tab option type will break a section or metabox into tabbed content."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:282
+msgid ""
+"The Tag Checkbox option type displays a list of tag IDs. It allows the user "
+"to check multiple tag IDs and will return that value as an array for use in "
+"a custom function or loop."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:285
+msgid ""
+"The Tag Select option type displays a list of tag IDs. It allows the user to "
+"select only one tag ID and will return that value for use in a custom "
+"function or loop."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:288
+msgid ""
+"The Taxonomy Checkbox option type displays a list of taxonomy IDs. It allows "
+"the user to check multiple taxonomy IDs and will return that value as an "
+"array for use in a custom function or loop."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:291
+msgid ""
+"The Taxonomy Select option type displays a list of taxonomy IDs. It allows "
+"the user to select only one taxonomy ID and will return that value for use "
+"in a custom function or loop."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:294
+msgid ""
+"The Text option type is used to save string values. For example, any "
+"optional or required text that is of reasonably short character length."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:297
+#, php-format
+msgid ""
+"The Textarea option type is a large string value used for custom code or "
+"text in the theme and has a WYSIWYG editor that can be filtered to change "
+"the how it is displayed. For example, you can filter %s, %s, %s, and %s."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:299
+msgid ""
+"Example filters to alter the Textarea option type. Added to <code>functions."
+"php</code>."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:301
+msgid ""
+"This example keeps WordPress from executing the <code>wpautop</code> filter "
+"on the line breaks. The default is <code>true</code> which means it wraps "
+"line breaks with an HTML <code>p</code> tag."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:314
+msgid ""
+"This example keeps WordPress from executing the <code>media_buttons</code> "
+"filter on the textarea WYSIWYG. The default is <code>true</code> which means "
+"show the buttons."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:327
+msgid ""
+"This example keeps WordPress from executing the <code>tinymce</code> filter "
+"on the textarea WYSIWYG. The default is <code>true</code> which means show "
+"the tinymce."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:340
+msgid ""
+"This example alters the <code>quicktags</code> filter on the textarea "
+"WYSIWYG. The default is <code>array( 'buttons' => 'strong,em,link,block,del,"
+"ins,img,ul,ol,li,code,spell,close' )</code> which means show those "
+"quicktags. It also means you can filter in your own custom quicktags."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:356
+msgid ""
+"The Textarea Simple option type is a large string value used for custom code "
+"or text in the theme. The Textarea Simple does not have a WYSIWYG editor."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:358
+#, php-format
+msgid ""
+"This example tells WordPress to execute the %s filter on the line breaks. "
+"The default is %s which means it does not wraps line breaks with an HTML %s "
+"tag. Added to %s."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:372
+msgid ""
+"The Textblock option type is used only on the Theme Option page. It will "
+"allow you to create & display HTML, but has no title above the text block. "
+"You can then use the Textblock to add a more detailed set of instruction on "
+"how the options are used in your theme. You would never use this in your "
+"themes template files as it does not save a value."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:375
+msgid ""
+"The Textblock Titled option type is used only on the Theme Option page. It "
+"will allow you to create & display HTML, and has a title above the text "
+"block. You can then use the Textblock Titled to add a more detailed set of "
+"instruction on how the options are used in your theme. You would never use "
+"this in your themes template files as it does not save a value."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:378
+#, php-format
+msgid ""
+"The Typography option type is for adding typography styles to your theme "
+"either dynamically via the CSS option type above or manually with %s. The "
+"Typography option type has filters that allow you to remove fields or change "
+"the defaults. For example, you can filter %s to remove unwanted fields from "
+"all Background options or an individual one. You can also filter %s. These "
+"filters allow you to fine tune the select lists for your specific needs."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:380
+msgid ""
+"This example would filter <code>ot_recognized_font_families</code> to build "
+"your own font stack. Added to <code>functions.php</code>."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:398
+#, php-format
+msgid ""
+"The Upload option type is used to upload any WordPress supported media. "
+"After uploading, users are required to press the \"%s\" button in order to "
+"populate the input with the URI of that media. There is one caveat of this "
+"feature. If you import the theme options and have uploaded media on one site "
+"the old URI will not reflect the URI of your new site. You will have to re-"
+"upload or %s any media to your new server and change the URIs if necessary."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:430
+msgid ""
+"This function returns a value from the \"option_tree\" array of saved values "
+"or the default value supplied. The returned value would be mixed. Meaning it "
+"could be a string, integer, boolean, or array."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:432
+#: framework/option-tree/includes/ot-functions-docs-page.php:482
+msgid "Usage"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:436
+#: framework/option-tree/includes/ot-functions-docs-page.php:486
+msgid "Parameters"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:440
+#: framework/option-tree/includes/ot-functions-docs-page.php:444
+#: framework/option-tree/includes/ot-functions-docs-page.php:490
+msgid "string"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:440
+#: framework/option-tree/includes/ot-functions-docs-page.php:490
+msgid "required"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:440
+msgid "Enter the options unique identifier."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:440
+#: framework/option-tree/includes/ot-functions-docs-page.php:490
+msgid "Default:"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:444
+#: framework/option-tree/includes/ot-functions-docs-page.php:494
+#: framework/option-tree/includes/ot-functions-docs-page.php:498
+#: framework/option-tree/includes/ot-functions-docs-page.php:502
+#: framework/option-tree/includes/ot-functions-docs-page.php:506
+msgid "optional"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:444
+msgid ""
+"Enter a default return value. This is just incase the request returns null."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:474
+msgid ""
+"This function has been deprecated. That means it has been replaced by a new "
+"function or is no longer supported, and may be removed from future versions. "
+"All code that uses this function should be converted to use its replacement."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:476
+msgid "Use"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:476
+msgid "instead"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:480
+msgid ""
+"This function returns, or echos if asked, a value from the \"option_tree\" "
+"array of saved values."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:490
+msgid "Enter a unique Option Key to get a returned value or array."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:494
+msgid "array"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:494
+msgid "Used to cut down on database queries in template files."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:498
+#: framework/option-tree/includes/ot-functions-docs-page.php:502
+msgid "boolean"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:498
+msgid "Echo the output."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:502
+msgid "Used to indicate the $item_id is an array of values."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:506
+msgid "integer"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:506
+msgid ""
+"Numeric offset key for the $item_id array, -1 will return all values (an "
+"array starts at 0)."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:534
+msgid ""
+"If you're using the plugin version of OptionTree it is highly recommended to "
+"include a <code>function_exists</code> check in your code, as described in "
+"the examples below. If you've integrated OptionTree directly into your "
+"themes root directory, you will <strong>not</strong> need to wrap your code "
+"with <code>function_exists</code>, as you're guaranteed to have the "
+"<code>ot_get_option()</code> function available."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:536
+msgid "String Examples"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:538
+msgid "Returns the value of <code>test_input</code>."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:544
+msgid ""
+"Returns the value of <code>test_input</code>, but also has a default value "
+"if it returns empty."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:550
+msgid "Array Examples"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:552
+msgid ""
+"Assigns the value of <code>navigation_ids</code> to the variable <code>$ids</"
+"code>. It then echos an unordered list of links (navigation) using "
+"<code>wp_list_pages()</code>."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:572
+msgid ""
+"The next two examples demonstrate how to use the <strong>Measurement</"
+"strong> option type. The Measurement option type is an array with two key/"
+"value pairs. The first is the value of measurement and the second is the "
+"unit of measurement."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:598
+msgid "This example displays a very basic slider loop."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:643
+msgid "It's Super Simple"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:645
+msgid ""
+"Layouts make your theme awesome! With theme options data that you can save/"
+"import/export you can package themes with different color variations, or "
+"make it easy to do A/B testing on text and so much more. Basically, you save "
+"a snapshot of your data as a layout."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:647
+msgid ""
+"Once you have created all your different layouts, or theme variations, you "
+"can save them to a separate text file for repackaging with your theme. "
+"Alternatively, you could just make different variations for yourself and "
+"change your theme with the click of a button, all without deleting your "
+"previous options data."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:649
+msgid ""
+" Adding a layout is ridiculously easy, follow these steps and you'll be on "
+"your way to having a WordPress super theme."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:651
+msgid "For Developers"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:653
+#: framework/option-tree/includes/ot-functions-docs-page.php:682
+msgid "Creating a Layout"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:655
+#: framework/option-tree/includes/ot-functions-docs-page.php:662
+#: framework/option-tree/includes/ot-functions-docs-page.php:668
+msgid "Go to the <code>OptionTre->Settings->Layouts</code> tab."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:656
+msgid ""
+"Enter a name for your layout in the text field and hit \"Save Layouts\", "
+"you've created your first layout."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:657
+#: framework/option-tree/includes/ot-functions-docs-page.php:686
+msgid "Adding a new layout is as easy as repeating the steps above."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:660
+#: framework/option-tree/includes/ot-functions-docs-page.php:689
+msgid "Activating a Layout"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:663
+msgid "Click on the activate layout button in the actions list."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:666
+#: framework/option-tree/includes/ot-functions-docs-page.php:695
+msgid "Deleting a Layout"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:669
+msgid "Click on the delete layout button in the actions list."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:672
+#: framework/option-tree/includes/ot-functions-docs-page.php:700
+msgid "Edit Layout Data"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:674
+#: framework/option-tree/includes/ot-functions-docs-page.php:684
+#: framework/option-tree/includes/ot-functions-docs-page.php:691
+msgid "Go to the <code>Appearance->Theme Options</code> page."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:675
+#: framework/option-tree/includes/ot-functions-docs-page.php:703
+msgid ""
+"Modify and save your theme options and the layout will be updated "
+"automatically."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:676
+#: framework/option-tree/includes/ot-functions-docs-page.php:704
+msgid ""
+"Saving theme options data will update the currently active layout, so before "
+"you start saving make sure you want to modify the current layout."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:677
+msgid ""
+"If you want to edit a new layout, first create it then save your theme "
+"options."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:680
+msgid "End-Users Mode"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:685
+msgid ""
+"Enter a name for your layout in the text field and hit \"New Layout\", "
+"you've created your first layout."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:692
+msgid ""
+"Choose a layout from the select list and click the \"Activate Layout\" "
+"button."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:697
+msgid "End-Users mode does not allow deleting layouts."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:702
+msgid "Go to the <code>Appearance->Theme Options</code> tab."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:733
+#: framework/option-tree/includes/ot-functions-docs-page.php:815
+msgid "How-to-guide"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:735
+msgid ""
+"There are a few simple steps you need to take in order to use OptionTree's "
+"built in Meta Box API. In the code below I'll show you a basic demo of how "
+"to create your very own custom meta box using any number of the option types "
+"you have at your disposal. If you would like to see some demo code, there is "
+"a directory named <code>theme-mode</code> inside the <code>assets</code> "
+"directory that contains a file named <code>demo-meta-boxes.php</code> you "
+"can reference."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:737
+msgid ""
+"It's important to note that Meta Boxes do not support WYSIWYG editors at "
+"this time and if you set one of your options to Textarea it will "
+"automatically revert to a Textarea Simple until a valid solution is found. "
+"WordPress released this statement regarding the wp_editor() function:"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:739
+msgid ""
+"Once instantiated, the WYSIWYG editor cannot be moved around in the DOM. "
+"What this means in practical terms, is that you cannot put it in meta-boxes "
+"that can be dragged and placed elsewhere on the page."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:741
+msgid "Create and include your custom meta boxes file."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:743
+msgid ""
+"Create a file and name it anything you want, maybe <code>meta-boxes.php</"
+"code>."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:744
+msgid ""
+"As well, you'll probably want to create a directory named <code>includes</"
+"code> to put your <code>meta-boxes.php</code> into which will help keep you "
+"file structure nice and tidy."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:745
+#: framework/option-tree/includes/ot-functions-docs-page.php:845
+msgid "Add the following code to your <code>functions.php</code>."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:755
+msgid ""
+"Add a variation of the following code to your <code>meta-boxes.php</code>. "
+"You'll obviously need to fill it in with all your custom array values. It's "
+"important to note here that we use the <code>admin_init</code> filter "
+"because if you were to call the <code>ot_register_meta_box</code> function "
+"before OptionTree was loaded the sky would fall on your head."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:817
+msgid ""
+"There are a few simple steps you need to take in order to use OptionTree as "
+"a theme included module. In the code below I'll show you a basic demo of how "
+"to include the entire plugin as a module, which will allow you to have the "
+"most up-to-date version of OptionTree without ever needing to hack the core "
+"of the plugin. If you would like to see some demo code, there is a directory "
+"named <code>theme-mode</code> inside the <code>assets</code> directory that "
+"contains a file named <code>demo-theme-options.php</code> you can reference."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:819
+msgid "Step 1: Include the plugin & turn on theme mode."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:821
+#, php-format
+msgid "Download the latest version of %s and unarchive the %s directory."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:822
+#, php-format
+msgid ""
+"Put the %s directory in the root of your theme. For example, the server path "
+"would be %s."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:823
+#, php-format
+msgid "Add the following code to the beginning of your %s."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:837
+#, php-format
+msgid ""
+"For a list of all the OptionTree UI display filters refer to the %s file "
+"found in the %s directory of this plugin. This file is the starting point "
+"for developing themes with Theme Mode."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:839
+msgid ""
+"You now have OptionTree built into your theme and anytime an update is "
+"available replace the old version with the new one."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:841
+msgid "Step 2: Create Theme Options without using the UI Builder."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:843
+msgid ""
+"Create a file and name it anything you want, maybe <code>theme-options.php</"
+"code>, or use the built in file export to create it for you. Remember, you "
+"should always check the file for errors before including it in your theme."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:844
+msgid ""
+"As well, you'll probably want to create a directory named <code>includes</"
+"code> to put your <code>theme-options.php</code> into which will help keep "
+"you file structure nice and tidy."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:855
+msgid ""
+"Add a variation of the following code to your <code>theme-options.php</"
+"code>. You'll obviously need to fill it in with all your custom array values "
+"for contextual help (optional), sections (required), and settings (required)."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:858
+msgid ""
+"The code below is a boilerplate to get your started. For a full list of the "
+"available option types click the \"Option Types\" tab above. Also a quick "
+"note, you don't need to put OptionTree in theme mode to manually create "
+"options but you will want to hide the docs and settings as each time you "
+"load the admin area the settings be written over with the code below if "
+"they've changed in any way. However, this ensures your settings do not get "
+"tampered with by the end-user."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:46
+msgid "Sorry, this function does not exist"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:134
+msgid "background-repeat"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:152
+msgid "background-attachment"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:171
+msgid "background-position"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:224
+msgid "background-size"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:238
+msgid "background-image"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:241
+#: framework/option-tree/includes/ot-functions-option-types.php:3202
+msgid "Add Media"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:316
+#: framework/option-tree/includes/ot-functions-option-types.php:1045
+msgid "width"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:327
+#: framework/option-tree/includes/ot-functions-option-types.php:1065
+#: framework/option-tree/includes/ot-functions-option-types.php:1550
+#: framework/option-tree/includes/ot-functions-option-types.php:2506
+msgid "unit"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:346
+msgid "style"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:439
+msgid "offset-x"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:448
+msgid "offset-y"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:457
+msgid "blur-radius"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:466
+msgid "spread-radius"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:538
+#: framework/option-tree/includes/ot-functions-option-types.php:592
+msgid "No Categories Found"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:587
+#: framework/option-tree/includes/ot-functions-option-types.php:870
+#: framework/option-tree/includes/ot-functions-option-types.php:1819
+#: framework/option-tree/includes/ot-functions-option-types.php:1930
+#: framework/option-tree/includes/ot-functions-option-types.php:2646
+#: framework/option-tree/includes/ot-functions-option-types.php:2761
+msgid "Choose One"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:818
+#: framework/option-tree/includes/ot-functions-option-types.php:876
+#: framework/option-tree/includes/ot-functions-option-types.php:1881
+#: framework/option-tree/includes/ot-functions-option-types.php:1936
+msgid "No Posts Found"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1054
+msgid "height"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1232
+#: framework/option-tree/includes/ot-functions-option-types.php:1275
+msgid "Remove Google Font"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1234
+#: framework/option-tree/includes/ot-functions-option-types.php:1277
+msgid "-- Choose One --"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1298
+msgid "Add Google Font"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1384
+msgctxt "color picker"
+msgid "Standard"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1385
+msgctxt "color picker"
+msgid "Hover"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1386
+msgctxt "color picker"
+msgid "Active"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1387
+msgctxt "color picker"
+msgid "Visited"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1388
+msgctxt "color picker"
+msgid "Focus"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1497
+#: framework/option-tree/includes/ot-functions-option-types.php:2246
+#: framework/option-tree/includes/ot-functions-option-types.php:2411
+msgid "Add New"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1500
+#: framework/option-tree/includes/ot-functions-option-types.php:2249
+#: framework/option-tree/includes/ot-functions-option-types.php:2414
+msgid "You can re-order with drag & drop, the order will update after saving."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1670
+#: partials/blog/single-layout-modern.php:94
+#: partials/blog/single-layout-side.php:24
+msgid "On"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1692
+msgid "Off"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1770
+#: framework/option-tree/includes/ot-functions-option-types.php:1825
+msgid "No Pages Found"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:2169
+msgid "Choose Sidebar"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:2174
+msgid "No Sidebars"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:2292
+msgid "Google+"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:2307
+msgid "Youtube"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:2312
+msgid "Dribbble"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:2317
+msgid "Github"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:2322
+msgid "Forrst"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:2342
+msgid "Skype"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:2347
+msgid "SoundCloud"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:2357
+msgid "Flickr"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:2362
+msgid "VK.com"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:2468
+msgid "top"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:2477
+msgid "right"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:2486
+msgid "bottom"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:2495
+msgid "left"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:2597
+#: framework/option-tree/includes/ot-functions-option-types.php:2651
+msgid "No Tags Found"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-option-types.php:2709
+#: framework/option-tree/includes/ot-functions-option-types.php:2766
+msgid "No Taxonomies Found"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:35
+msgid "Warning!"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:36
+#, php-format
+msgid ""
+"Go to the %s page if you want to save data, this page is for adding settings."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:37
+#, php-format
+msgid ""
+"If you're unsure or not completely positive that you should be editing these "
+"settings, you should read the %s first."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:38
+msgid ""
+"Things could break or be improperly displayed to the end-user if you do one "
+"of the following:"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:39
+msgid ""
+"Give two sections the same ID, give two settings the same ID, give two "
+"contextual help content areas the same ID, don't create any settings, or "
+"have a section at the end of the settings list."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:40
+msgid ""
+"You can create as many settings as your project requires and use them how "
+"you see fit. When you add a setting here, it will be available on the Theme "
+"Options page for use in your theme. To separate your settings into sections, "
+"click the \"Add Section\" button, fill in the input fields, and a new "
+"navigation menu item will be created."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:41
+msgid ""
+"All of the settings can be sorted and rearranged to your liking with Drag & "
+"Drop. Don't worry about the order in which you create your settings, you can "
+"always reorder them."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:92
+msgid "Add Section"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:99
+msgid "Contextual Help"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:103
+msgid "Contextual Help Sidebar"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:103
+msgid ""
+"If you decide to add contextual help to the Theme Option page, enter the "
+"optional \"Sidebar\" HTML here. This would be an extremely useful place to "
+"add links to your themes documentation or support forum. Only after you've "
+"added some content below will this display to the user."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:132
+msgid "Add Contextual Help Content"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:168
+msgid ""
+"This import method has been deprecated. That means it has been replaced by a "
+"new method and is no longer supported, and may be removed from future "
+"versions. All themes that use this import method should be converted to use "
+"its replacement below."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:170
+#, php-format
+msgid ""
+"If you were given a Theme Options XML file with a premium or free theme, "
+"locate it on your hard drive and upload that file by clicking the upload "
+"button. A popup window will appear, upload the XML file and click \"%s\". "
+"The file URL should be in the upload input, if it is click \"Import XML\"."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:173
+msgid "Import XML"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:189
+msgid "Add XML"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:226
+msgid ""
+"To import your Settings copy and paste what appears to be a random string of "
+"alpha numeric characters into this textarea and press the \"Import Settings"
+"\" button."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:229
+msgid "Import Settings"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:271
+msgid ""
+"Only after you've imported the Settings should you try and update your Theme "
+"Options."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:273
+msgid ""
+"To import your Theme Options copy and paste what appears to be a random "
+"string of alpha numeric characters into this textarea and press the \"Import "
+"Theme Options\" button."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:276
+msgid "Import Theme Options"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:318
+msgid ""
+"Only after you've imported the Settings should you try and update your "
+"Layouts."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:320
+msgid ""
+"To import your Layouts copy and paste what appears to be a random string of "
+"alpha numeric characters into this textarea and press the \"Import Layouts\" "
+"button. Keep in mind that when you import your layouts, the active layout's "
+"saved data will write over the current data set for your Theme Options."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:323
+msgid "Import Layouts"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:366
+#, php-format
+msgid ""
+"Export your Settings into a fully functional %s file. If you want to add "
+"your own custom %s text domain to the file, enter it into the text field "
+"before exporting. For more information on how to use this file read the "
+"documentation on %s. Remember, you should always check the file for errors "
+"before including it in your theme."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:375
+msgid "Export Settings File"
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:405
+msgid ""
+"Export your Settings by highlighting this text and doing a copy/paste into a "
+"blank .txt file. Then save the file for importing into another install of "
+"WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Settings</strong> textarea "
+"on another web site."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:441
+msgid ""
+"Export your Theme Options data by highlighting this text and doing a copy/"
+"paste into a blank .txt file. Then save the file for importing into another "
+"install of WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Theme Options</strong> "
+"textarea on another web site."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:477
+msgid ""
+"Export your Layouts by highlighting this text and doing a copy/paste into a "
+"blank .txt file. Then save the file for importing into another install of "
+"WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Layouts</strong> textarea "
+"on another web site."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:519
+msgid ""
+"To add a new layout enter a unique lower case alphanumeric string (dashes "
+"allowed) in the text field and click \"Save Layouts\"."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:520
+msgid ""
+"As well, you can activate, remove, and drag & drop the order; all situations "
+"require you to click \"Save Layouts\" for the changes to be applied."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:521
+msgid ""
+"When you create a new layout it will become active and any changes made to "
+"the Theme Options will be applied to it. If you switch back to a different "
+"layout immediately after creating a new layout that new layout will have a "
+"snapshot of the current Theme Options data attached to it."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:522
+msgid ""
+"Visit <code>OptionTree->Documentation->Layouts Overview</code> to see a more "
+"in-depth description of what layouts are and how to use them."
+msgstr ""
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:559
+msgid "Save Layouts"
+msgstr ""
+
+#: framework/option-tree/includes/ot-settings-api.php:364
+msgid "Reset Options"
+msgstr ""
+
+#: framework/option-tree/ot-loader.php:22
+msgid ""
+"OptionTree is installed as a plugin and also embedded in your current theme. "
+"Please deactivate the plugin to load the theme dependent version of "
+"OptionTree, and remove this warning."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:393
+#: framework/plugin-register/class-tgm-plugin-activation.php:912
+#: framework/plugin-register/class-tgm-plugin-activation.php:2618
+#: framework/plugin-register/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:394
+#: framework/plugin-register/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:395
+#: framework/plugin-register/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:1019
+#: framework/plugin-register/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:1206
+#: framework/plugin-register/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:3594
+#: framework/plugin-register/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:3594
+#: framework/plugin-register/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:14
+msgid "Theme Button"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:15
+msgid "Theme style buttons"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:22
+msgid "Text on button"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:29
+msgid "Button URL"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:31 framework/vc/eram_free_caption/init.php:43
+msgid "Configure the button URL. leave blank to ignore"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:37
+msgid "Extra Small"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:38
+msgid "Small"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:39
+msgid "Medium (default)"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:40
+msgid "Large"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:47
+msgid "Shape"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:49
+msgid "Square (default)"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:50
+msgid "Round corner"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:51
+msgid "Rounded"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:61
+msgid "Red"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:62
+msgid "Blue"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:63
+msgid "Green"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:64
+msgid "Purple"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:65
+msgid "Yellow"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:66
+msgid "White"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:74
+msgid "Transparent Background"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:77 framework/vc/eram_btn/init.php:86
+#: framework/vc/eram_btn/init.php:95 framework/vc/eram_btn/init.php:104
+#: framework/vc/eram_call_to_action/init.php:45
+#: framework/vc/eram_double_carousel/init.php:26
+#: framework/vc/eram_double_carousel/init.php:35
+#: framework/vc/eram_double_carousel/init.php:44
+#: framework/vc/eram_double_carousel/init.php:53
+#: framework/vc/eram_double_carousel/init.php:62
+#: framework/vc/eram_double_carousel/init.php:70
+#: framework/vc/eram_double_carousel/init.php:77
+#: framework/vc/eram_rail_carousel/init.php:72
+#: framework/vc/eram_video/init.php:59
+msgid "Enable"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:83
+msgid "Wider Button"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:92
+msgid "Add Icon?"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:101
+msgid "Animate Icon?"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:114
+msgid "Icon Alignment"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:128
+#: framework/vc/eram_call_to_action/init.php:51
+#: framework/vc/eram_icon_box/init.php:23
+msgid "Icon library"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:130
+#: framework/vc/eram_call_to_action/init.php:53
+#: framework/vc/eram_icon_box/init.php:25
+msgid "Font Awesome"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:131
+#: framework/vc/eram_call_to_action/init.php:54
+#: framework/vc/eram_icon_box/init.php:26
+msgid "Open Iconic"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:132
+#: framework/vc/eram_call_to_action/init.php:55
+#: framework/vc/eram_icon_box/init.php:27
+msgid "Typicons"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:133
+#: framework/vc/eram_call_to_action/init.php:56
+#: framework/vc/eram_icon_box/init.php:28
+msgid "Entypo"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:134
+#: framework/vc/eram_call_to_action/init.php:57
+#: framework/vc/eram_icon_box/init.php:29
+msgid "Linecons"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:135
+#: framework/vc/eram_call_to_action/init.php:58
+#: framework/vc/eram_icon_box/init.php:30
+msgid "Pixel"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:136
+#: framework/vc/eram_call_to_action/init.php:59
+#: framework/vc/eram_icon_box/init.php:31
+msgid "Mono Social"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:139
+#: framework/vc/eram_call_to_action/init.php:62
+#: framework/vc/eram_icon_box/init.php:34
+msgid "Select icon library."
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:147 framework/vc/eram_btn/init.php:164
+#: framework/vc/eram_btn/init.php:181 framework/vc/eram_btn/init.php:198
+#: framework/vc/eram_btn/init.php:214 framework/vc/eram_btn/init.php:231
+#: framework/vc/eram_btn/init.php:247
+#: framework/vc/eram_call_to_action/init.php:66
+#: framework/vc/eram_call_to_action/init.php:83
+#: framework/vc/eram_call_to_action/init.php:100
+#: framework/vc/eram_call_to_action/init.php:117
+#: framework/vc/eram_call_to_action/init.php:133
+#: framework/vc/eram_call_to_action/init.php:150
+#: framework/vc/eram_call_to_action/init.php:166
+#: framework/vc/eram_icon_box/init.php:38
+#: framework/vc/eram_icon_box/init.php:55
+#: framework/vc/eram_icon_box/init.php:72
+#: framework/vc/eram_icon_box/init.php:89
+#: framework/vc/eram_icon_box/init.php:105
+#: framework/vc/eram_icon_box/init.php:122
+#: framework/vc/eram_icon_box/init.php:138
+msgid "Icon"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:160 framework/vc/eram_btn/init.php:177
+#: framework/vc/eram_btn/init.php:194 framework/vc/eram_btn/init.php:227
+#: framework/vc/eram_btn/init.php:243 framework/vc/eram_btn/init.php:259
+#: framework/vc/eram_call_to_action/init.php:79
+#: framework/vc/eram_call_to_action/init.php:96
+#: framework/vc/eram_call_to_action/init.php:113
+#: framework/vc/eram_call_to_action/init.php:146
+#: framework/vc/eram_call_to_action/init.php:162
+#: framework/vc/eram_call_to_action/init.php:178
+#: framework/vc/eram_icon_box/init.php:51
+#: framework/vc/eram_icon_box/init.php:68
+#: framework/vc/eram_icon_box/init.php:85
+#: framework/vc/eram_icon_box/init.php:118
+#: framework/vc/eram_icon_box/init.php:134
+#: framework/vc/eram_icon_box/init.php:150
+msgid "Select icon from library."
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:263
+#: framework/vc/eram_call_to_action/init.php:195
+#: framework/vc/eram_double_carousel/init.php:104
+#: framework/vc/eram_double_carousel/init.php:150
+#: framework/vc/eram_free_caption/init.php:68
+#: framework/vc/eram_free_layer/init.php:38
+#: framework/vc/eram_icon_box/init.php:173
+#: framework/vc/eram_image_compare/init.php:44
+#: framework/vc/eram_mask_image/init.php:41
+#: framework/vc/eram_price_table/init.php:54
+#: framework/vc/eram_rail_carousel/init.php:79
+#: framework/vc/eram_rail_carousel/init.php:141
+#: framework/vc/eram_single_gallery/init.php:75
+#: framework/vc/eram_team_members/init.php:49
+#: framework/vc/eram_testimonial/init.php:47
+#: framework/vc/eram_video/init.php:82
+msgid "Extra class name"
+msgstr ""
+
+#: framework/vc/eram_btn/init.php:265
+#: framework/vc/eram_call_to_action/init.php:197
+#: framework/vc/eram_double_carousel/init.php:106
+#: framework/vc/eram_double_carousel/init.php:152
+#: framework/vc/eram_free_caption/init.php:70
+#: framework/vc/eram_free_layer/init.php:40
+#: framework/vc/eram_icon_box/init.php:175
+#: framework/vc/eram_image_compare/init.php:46
+#: framework/vc/eram_price_table/init.php:56
+#: framework/vc/eram_rail_carousel/init.php:81
+#: framework/vc/eram_rail_carousel/init.php:143
+#: framework/vc/eram_single_gallery/init.php:77
+#: framework/vc/eram_team_members/init.php:51
+#: framework/vc/eram_testimonial/init.php:49
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: framework/vc/eram_call_to_action/init.php:14
+msgid "Call to action"
+msgstr ""
+
+#: framework/vc/eram_call_to_action/init.php:15
+msgid "Encourage visitors to click..."
+msgstr ""
+
+#: framework/vc/eram_call_to_action/init.php:22
+#: framework/vc/eram_icon_box/init.php:154
+msgid "Heading"
+msgstr ""
+
+#: framework/vc/eram_call_to_action/init.php:30
+msgid "Sub Headeing"
+msgstr ""
+
+#: framework/vc/eram_call_to_action/init.php:36
+#: framework/vc/eram_icon_box/init.php:167
+msgid "Linked Button"
+msgstr ""
+
+#: framework/vc/eram_call_to_action/init.php:38
+#: framework/vc/eram_icon_box/init.php:169
+msgid "Configure the button. leave blank to ignore"
+msgstr ""
+
+#: framework/vc/eram_call_to_action/init.php:42
+msgid "Include Icon"
+msgstr ""
+
+#: framework/vc/eram_call_to_action/init.php:183
+#: framework/vc/eram_free_caption/init.php:47
+#: framework/vc/eram_rail_carousel/init.php:37
+msgid "Theme"
+msgstr ""
+
+#: framework/vc/eram_call_to_action/init.php:185
+msgid "Coloring of the item"
+msgstr ""
+
+#: framework/vc/eram_call_to_action/init.php:187
+#: framework/vc/eram_rail_carousel/init.php:41
+msgid "Dark Theme"
+msgstr ""
+
+#: framework/vc/eram_call_to_action/init.php:188
+#: framework/vc/eram_rail_carousel/init.php:42
+msgid "Light Theme"
+msgstr ""
+
+#: framework/vc/eram_double_carousel/init.php:13
+msgid "Double Carousel"
+msgstr ""
+
+#: framework/vc/eram_double_carousel/init.php:14
+msgid "Eye catching split screen carousel"
+msgstr ""
+
+#: framework/vc/eram_double_carousel/init.php:23
+msgid "Mouse wheel navigation?"
+msgstr ""
+
+#: framework/vc/eram_double_carousel/init.php:32
+msgid "Keyboard navigation?"
+msgstr ""
+
+#: framework/vc/eram_double_carousel/init.php:41
+msgid "Touch"
+msgstr ""
+
+#: framework/vc/eram_double_carousel/init.php:50
+msgid "Show navigation bullets?"
+msgstr ""
+
+#: framework/vc/eram_double_carousel/init.php:59
+msgid "Show next/prev links?"
+msgstr ""
+
+#: framework/vc/eram_double_carousel/init.php:68
+msgid "Autoplay"
+msgstr ""
+
+#: framework/vc/eram_double_carousel/init.php:75
+msgid "Slide Numbers"
+msgstr ""
+
+#: framework/vc/eram_double_carousel/init.php:83
+msgid "Transition Duration"
+msgstr ""
+
+#: framework/vc/eram_double_carousel/init.php:86
+msgid "in seconds"
+msgstr ""
+
+#: framework/vc/eram_double_carousel/init.php:92
+msgid "Autoplay duration"
+msgstr ""
+
+#: framework/vc/eram_double_carousel/init.php:94
+msgid "Duration of changing slides (in second)"
+msgstr ""
+
+#: framework/vc/eram_double_carousel/init.php:115
+msgid "Single Item"
+msgstr ""
+
+#: framework/vc/eram_double_carousel/init.php:116
+msgid "Single item of the Carousel"
+msgstr ""
+
+#: framework/vc/eram_double_carousel/init.php:127
+msgid "Add cover image here."
+msgstr ""
+
+#: framework/vc/eram_double_carousel/init.php:134
+#: framework/vc/eram_rail_carousel/init.php:125
+#: framework/vc/eram_testimonial/init.php:32
+msgid "Title of the item."
+msgstr ""
+
+#: framework/vc/eram_double_carousel/init.php:140
+#: framework/vc/eram_rail_carousel/init.php:131
+msgid "Short description of the item."
+msgstr ""
+
+#: framework/vc/eram_double_carousel/init.php:144
+#: framework/vc/eram_price_table/init.php:48
+#: framework/vc/eram_rail_carousel/init.php:135
+#: framework/vc/eram_team_members/init.php:43
+#: partials/portfolio/single-content.php:43
+msgid "URL"
+msgstr ""
+
+#: framework/vc/eram_double_carousel/init.php:146
+#: framework/vc/eram_price_table/init.php:50
+msgid "Url of the button. leave blank to ignore"
+msgstr ""
+
+#: framework/vc/eram_free_caption/init.php:15
+msgid "Free Caption"
+msgstr ""
+
+#: framework/vc/eram_free_caption/init.php:16
+msgid "Caption for free Layer"
+msgstr ""
+
+#: framework/vc/eram_free_caption/init.php:24
+msgid "Transparent Image"
+msgstr ""
+
+#: framework/vc/eram_free_caption/init.php:25
+msgid "Use a transparent png image"
+msgstr ""
+
+#: framework/vc/eram_free_caption/init.php:30
+msgid "Heading Text"
+msgstr ""
+
+#: framework/vc/eram_free_caption/init.php:41
+msgid "Button & URL"
+msgstr ""
+
+#: framework/vc/eram_free_caption/init.php:49
+msgid "Coloring of the element"
+msgstr ""
+
+#: framework/vc/eram_free_caption/init.php:51
+msgid "Dark Texts"
+msgstr ""
+
+#: framework/vc/eram_free_caption/init.php:52
+msgid "Light Texts"
+msgstr ""
+
+#: framework/vc/eram_free_caption/init.php:58
+msgid "Style"
+msgstr ""
+
+#: framework/vc/eram_free_caption/init.php:62
+msgid "Boxed"
+msgstr ""
+
+#: framework/vc/eram_free_layer/init.php:14
+msgid "Free Layer"
+msgstr ""
+
+#: framework/vc/eram_free_layer/init.php:15
+msgid "Stays on top of the contents"
+msgstr ""
+
+#: framework/vc/eram_free_layer/init.php:27
+msgid "Position of layer"
+msgstr ""
+
+#: framework/vc/eram_free_layer/init.php:29
+msgid ""
+"position based on the parent row or the page. (use page in fullscreen "
+"elements like kenburn gallery)"
+msgstr ""
+
+#: framework/vc/eram_free_layer/init.php:31
+msgid "on top of parent row"
+msgstr ""
+
+#: framework/vc/eram_free_layer/init.php:32
+msgid "on top of page"
+msgstr ""
+
+#: framework/vc/eram_icon_box/init.php:15
+msgid "Iconbox"
+msgstr ""
+
+#: framework/vc/eram_icon_box/init.php:16
+msgid "Single Iconbox element"
+msgstr ""
+
+#: framework/vc/eram_icon_box/init.php:161
+msgid "content"
+msgstr ""
+
+#: framework/vc/eram_image_compare/init.php:14
+msgid "Image Compare"
+msgstr ""
+
+#: framework/vc/eram_image_compare/init.php:15
+msgid "before/after element"
+msgstr ""
+
+#: framework/vc/eram_image_compare/init.php:22
+msgid "Before Image"
+msgstr ""
+
+#: framework/vc/eram_image_compare/init.php:27
+msgid "Before Text"
+msgstr ""
+
+#: framework/vc/eram_image_compare/init.php:29
+msgid "Before"
+msgstr ""
+
+#: framework/vc/eram_image_compare/init.php:33
+msgid "After Image"
+msgstr ""
+
+#: framework/vc/eram_image_compare/init.php:38
+msgid "After Text"
+msgstr ""
+
+#: framework/vc/eram_image_compare/init.php:40
+msgid "After"
+msgstr ""
+
+#: framework/vc/eram_mask_image/init.php:13
+msgid "Mask Image"
+msgstr ""
+
+#: framework/vc/eram_mask_image/init.php:17
+msgid "Single Image with mask reveal"
+msgstr ""
+
+#: framework/vc/eram_mask_image/init.php:24
+#: framework/vc/eram_testimonial/init.php:25
+#: framework/vc/eram_video/init.php:24
+msgid "Add image here."
+msgstr ""
+
+#: framework/vc/eram_mask_image/init.php:28 framework/vc/eram_video/init.php:65
+msgid "Direction"
+msgstr ""
+
+#: framework/vc/eram_mask_image/init.php:30 framework/vc/eram_video/init.php:67
+msgid "Mask Direction"
+msgstr ""
+
+#: framework/vc/eram_mask_image/init.php:32 framework/vc/eram_video/init.php:69
+msgid "From Top"
+msgstr ""
+
+#: framework/vc/eram_mask_image/init.php:33 framework/vc/eram_video/init.php:70
+msgid "From Bottom"
+msgstr ""
+
+#: framework/vc/eram_mask_image/init.php:34 framework/vc/eram_video/init.php:71
+msgid "From Left"
+msgstr ""
+
+#: framework/vc/eram_mask_image/init.php:35 framework/vc/eram_video/init.php:72
+msgid "From Right"
+msgstr ""
+
+#: framework/vc/eram_mask_image/init.php:43 framework/vc/eram_video/init.php:84
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: framework/vc/eram_mask_image/init.php:47 framework/vc/eram_video/init.php:88
+msgid "CSS box"
+msgstr ""
+
+#: framework/vc/eram_mask_image/init.php:49 framework/vc/eram_video/init.php:90
+msgid "Design Options"
+msgstr ""
+
+#: framework/vc/eram_price_table/init.php:15
+msgid "Price Table"
+msgstr ""
+
+#: framework/vc/eram_price_table/init.php:16
+msgid "A single Price Table Item"
+msgstr ""
+
+#: framework/vc/eram_price_table/init.php:28
+msgid "Plan Title"
+msgstr ""
+
+#: framework/vc/eram_price_table/init.php:31
+msgid "Title of the plan."
+msgstr ""
+
+#: framework/vc/eram_price_table/init.php:36
+msgid "Subtitle"
+msgstr ""
+
+#: framework/vc/eram_price_table/init.php:42
+msgid "Features List"
+msgstr ""
+
+#: framework/vc/eram_price_table/init.php:44
+msgid "Each feature in a new line."
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:14
+msgid "Rail Carousel"
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:15
+msgid "Eye catching fullscreen carousel"
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:24
+msgid "Background Type"
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:26
+msgid "How you want the background of slides to be"
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:28
+msgid "Solid Color (based on theme)"
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:29
+msgid "Background Image (set for each slide)"
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:30
+msgid "Adaptive Color (automatic select from image)"
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:39
+msgid "Coloring of the slider"
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:49
+msgid "Background Overlay"
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:54
+#: framework/vc/eram_video/init.php:41
+msgid "Gradient #1 - Navy"
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:55
+#: framework/vc/eram_video/init.php:42
+msgid "Gradient #2 - pink"
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:56
+#: framework/vc/eram_video/init.php:43
+msgid "Gradient #3 - green"
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:57
+#: framework/vc/eram_video/init.php:44
+msgid "Gradient #4 - orange"
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:58
+#: framework/vc/eram_video/init.php:45
+msgid "Gradient #5 - pink/blue"
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:59
+#: framework/vc/eram_video/init.php:46
+msgid "Gradient #6 - dark green"
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:60
+#: framework/vc/eram_video/init.php:47
+msgid "Gradient #7 - orange/red"
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:61
+#: framework/vc/eram_video/init.php:48
+msgid "Gradient #8 - purple"
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:62
+#: framework/vc/eram_video/init.php:49
+msgid "Gradient #9 - green/yellow"
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:63
+#: framework/vc/eram_video/init.php:50
+msgid "Gradient #10 - orange/red"
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:65
+#: framework/vc/eram_video/init.php:52
+msgid "select the overlay type of the background image"
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:69
+msgid "Mouse Parallax Effect"
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:90
+msgid "Single Slide"
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:91
+msgid "Single Slide of the Rail Carousel"
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:103
+msgid ""
+"Add cover image here. Can be used as the cover image of the video if any."
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:110
+msgid "Add Background image here."
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:115
+msgid "MP4 Video URL"
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:118
+msgid ""
+"If you wish to have a <strong>small</strong> looped self-hosted video as the "
+"cover of slide, input the absolute URL of the video file being .mp4 format. "
+"You still need to add an image as the cover of the video. Leave blank to "
+"ignore."
+msgstr ""
+
+#: framework/vc/eram_rail_carousel/init.php:137
+msgid "Url of the slide. leave blank to ignore"
+msgstr ""
+
+#: framework/vc/eram_single_gallery/init.php:33
+msgid "Single Gallery"
+msgstr ""
+
+#: framework/vc/eram_single_gallery/init.php:34
+msgid "Show a gallery in a page"
+msgstr ""
+
+#: framework/vc/eram_single_gallery/init.php:41
+msgid "Select Gallery"
+msgstr ""
+
+#: framework/vc/eram_single_gallery/init.php:43
+msgid "Start typing the title of the gallery..."
+msgstr ""
+
+#: framework/vc/eram_single_gallery/init.php:52
+msgid "Gallery height"
+msgstr ""
+
+#: framework/vc/eram_single_gallery/init.php:54
+msgid ""
+"How you want the gallery be shown.<br><code>Default</code> is usefull for "
+"vertical grid and masonry gallery layouts.<br><code>Full</code> is usefull "
+"for kenburn, slider, horizontal and double carousle layouts. "
+"<br><code>Define in Pixels</code> is usefull for custom layouting."
+msgstr ""
+
+#: framework/vc/eram_single_gallery/init.php:59
+msgid "Define in Pixels"
+msgstr ""
+
+#: framework/vc/eram_single_gallery/init.php:64
+msgid "Define Height"
+msgstr ""
+
+#: framework/vc/eram_single_gallery/init.php:66
+msgid "The height of gallery wrapper in px (eg : 500)."
+msgstr ""
+
+#: framework/vc/eram_team_members/init.php:15
+msgid "Team Member"
+msgstr ""
+
+#: framework/vc/eram_team_members/init.php:16
+msgid "Member details"
+msgstr ""
+
+#: framework/vc/eram_team_members/init.php:26
+msgid "Add team member image here."
+msgstr ""
+
+#: framework/vc/eram_team_members/init.php:33
+msgid "Name of the member."
+msgstr ""
+
+#: framework/vc/eram_team_members/init.php:37
+msgid "Sub Title"
+msgstr ""
+
+#: framework/vc/eram_team_members/init.php:39
+msgid "Position or title of the member."
+msgstr ""
+
+#: framework/vc/eram_team_members/init.php:45
+msgid "Configure the linked URL. leave blank to ignore"
+msgstr ""
+
+#: framework/vc/eram_testimonial/init.php:14
+msgid "Testimonial"
+msgstr ""
+
+#: framework/vc/eram_testimonial/init.php:15
+msgid "A single Testimonial item"
+msgstr ""
+
+#: framework/vc/eram_testimonial/init.php:36
+msgid "Sub-title"
+msgstr ""
+
+#: framework/vc/eram_testimonial/init.php:38
+msgid "Goes bellow the title"
+msgstr ""
+
+#: framework/vc/eram_testimonial/init.php:42
+msgid "Testimonial text"
+msgstr ""
+
+#: framework/vc/eram_video/init.php:13
+msgid "Lightbox Video"
+msgstr ""
+
+#: framework/vc/eram_video/init.php:17
+msgid "lightbox YouTube/Vimeo player"
+msgstr ""
+
+#: framework/vc/eram_video/init.php:28
+msgid "Video link"
+msgstr ""
+
+#: framework/vc/eram_video/init.php:32
+#, php-format
+msgid ""
+"Enter link to video (Note: read more about available formats at WordPress <a "
+"href=\"%s\" target=\"_blank\">codex page</a>)."
+msgstr ""
+
+#: framework/vc/eram_video/init.php:36
+msgid "Image Overlay"
+msgstr ""
+
+#: framework/vc/eram_video/init.php:56
+msgid "Mask Reveal Effect?"
+msgstr ""
+
+#: image.php:33
+msgid "Purchase"
+msgstr ""
+
+#: partials/blog/format-audio.php:27 partials/blog/single-format-audio.php:15
+msgid "Your browser does not support the audio element."
+msgstr ""
+
+#: partials/blog/layout-classic.php:67 partials/blog/layout-masonry.php:67
+#: partials/blog/layout-minimal.php:69
+msgid "Archive for"
+msgstr ""
+
+#: partials/blog/layout-classic.php:100 search.php:64
+msgid "Page"
+msgstr ""
+
+#: partials/blog/layout-masonry.php:97 partials/blog/loop-minimal.php:99
+msgid "Newer Posts"
+msgstr ""
+
+#: partials/blog/layout-masonry.php:99 partials/blog/loop-minimal.php:101
+msgid "Older Posts"
+msgstr ""
+
+#: partials/blog/loop-classic.php:39 partials/blog/loop-minimal.php:29
+#: partials/blog/single-layout-classic.php:53
+#: partials/blog/single-layout-modern.php:46
+#: partials/blog/single-layout-side.php:31
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: partials/blog/loop-classic.php:42 partials/blog/loop-minimal.php:32
+#: partials/blog/single-layout-classic.php:56
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: partials/blog/loop-classic.php:58 partials/blog/loop-masonry.php:53
+msgid "Read More"
+msgstr ""
+
+#: partials/blog/loop-minimal.php:48
+msgid "By"
+msgstr ""
+
+#: partials/blog/single-layout-classic.php:70
+#: partials/blog/single-layout-modern.php:119
+#: partials/blog/single-layout-side.php:75
+msgid "Tags: "
+msgstr ""
+
+#: partials/blog/single-layout-classic.php:139
+#: partials/blog/single-layout-modern.php:189
+#: partials/blog/single-layout-side.php:142
+#: partials/portfolio/single-blank.php:35
+#: partials/portfolio/single-side-header.php:92
+#: partials/portfolio/single-top-header.php:144
+msgid "Previous"
+msgstr ""
+
+#: partials/blog/single-layout-classic.php:161
+#: partials/blog/single-layout-modern.php:211
+#: partials/blog/single-layout-side.php:164
+#: partials/portfolio/single-blank.php:57
+#: partials/portfolio/single-side-header.php:114
+#: partials/portfolio/single-top-header.php:166
+msgid "Next"
+msgstr ""
+
+#: partials/blog/single-layout-modern.php:84
+msgid "by"
+msgstr ""
+
+#: partials/blog/single-layout-side.php:34
+msgid "In"
+msgstr ""
+
+#: partials/client/archive.php:94
+msgid "No Galleries"
+msgstr ""
+
+#: partials/client/archive.php:101
+msgid "One"
+msgstr ""
+
+#: partials/client/archive.php:105
+msgid "Galleries"
+msgstr ""
+
+#: partials/client/archive.php:124
+msgid "No clients available"
+msgstr ""
+
+#: partials/client/single.php:73
+msgid "No Galleries Found."
+msgstr ""
+
+#: partials/portfolio/single-content.php:21
+msgid "Client"
+msgstr ""
+
+#: partials/portfolio/single-content.php:61
+msgid "Date"
+msgstr ""
+
+#: partials/proofgallery/single.php:65
+msgid "Download"
+msgstr ""
+
+#: partials/proofgallery/single.php:84
+msgid "Selected"
+msgstr ""
+
+#: partials/proofgallery/single.php:90
+msgid "of total"
+msgstr ""
+
+#: partials/proofgallery/single.php:96
+msgid "Photos"
+msgstr ""
+
+#: partials/proofgallery/single.php:107
+msgid "Submit Selected items"
+msgstr ""
+
+#: partials/proofgallery/single.php:113
+msgid "filter by:"
+msgstr ""
+
+#: partials/proofgallery/single.php:125
+msgid "Accepted"
+msgstr ""
+
+#: search.php:24
+msgid "There is nothing found that matches your search criteria."
+msgstr ""
+
+#: search.php:24
+#, php-format
+msgid "We have found one match with the word you searched."
+msgid_plural "We have found %d results with the word you searched."
+msgstr[0] ""
+msgstr[1] ""
+
+#: search.php:28
+#, php-format
+msgid "%d results for \"%s\""
+msgstr ""
+
+#: search.php:55
+msgid "Continue &#65515;"
+msgstr ""
+
+#: search.php:69
+msgid "No Results Found."
+msgstr ""
+
+#: vc_templates/eram_call_to_action.php:65
+#: vc_templates/eram_free_caption.php:71 vc_templates/eram_icon_box.php:38
+msgid "Discover"
+msgstr ""
+
+#: vc_templates/eram_double_carousel_item.php:71
+#: vc_templates/eram_rail_carousel_item.php:88
+msgid "Explore"
+msgstr ""
+
+#: vc_templates/eram_price_table.php:43
+msgid "Request Quote"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:79
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:97
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:103
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:39 woocommerce/cart/cart.php:120
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:60
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:92
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:138
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:138
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:138
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:144
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:39
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:41
+#: woocommerce/myaccount/form-login.php:58
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:46
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:50
+#: woocommerce/myaccount/form-login.php:100
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:60
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:64
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:77
+#: woocommerce/myaccount/form-login.php:114
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:86
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:93
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:107
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:72
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/single-product/related.php:51
+msgid "Related Products"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Eram"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themeforest.net/user/owwwlab/portfolio/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A Gentle, versatile, highly customizable theme for your precious photographs "
+"to help you stand out in the crowd. You can find us on:  <a href='http://"
+"themeforest.net/user/owwwlab'>Envato</a> or <a href='https://twitter.com/"
+"owwwlab'>Twitter</a>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "owwwlab"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://owwwlab.com/"
+msgstr ""

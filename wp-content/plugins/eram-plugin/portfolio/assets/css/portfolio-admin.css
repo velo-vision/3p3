@@ -1,0 +1,9 @@
+.post-type-eramfolio .column-portfolio_cover{
+    width:60px;
+}
+.post-type-eramfolio .column-portfolio_cover img{
+    width:40px;
+    height:40px;
+    border-radius:50%;
+}
+    

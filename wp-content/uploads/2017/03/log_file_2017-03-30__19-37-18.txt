@@ -1,0 +1,61 @@
+
+---Downloaded files---
+The import files for: Demo 1 were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = http://capa2.developer.velosoft.net/3p3
+Data file = /home/capa2/public_html/3p3/wp-content/uploads/2017/03/demo-content-import-file_2017-03-30__19-37-18.xml
+Widget file = /home/capa2/public_html/3p3/wp-content/uploads/2017/03/demo-widgets-import-file_2017-03-30__19-37-18.json
+Customizer file = /home/capa2/public_html/3p3/wp-content/uploads/2017/03/demo-customizer-import-file_2017-03-30__19-37-18.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+Deactivating plugins...
+Plugin Deactivation Done!.
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar Area : 
+
+Buscar - No Title - Widget already exists
+Entradas recientes - No Title - Widget already exists
+Comentarios recientes - No Title - Widget already exists
+Archivos - No Title - Widget already exists
+Categorías - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---pt-ocdi/after_import---
+
+Trying to set menu named : main menu
+Menu is Set!
+ --- Trying to update menu links for "main menu"---
+ Finished updating menu named "main menu".
+Re-activating plugins...
+Plugin re-activation Done!.
+Import finalization done!
