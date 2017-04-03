@@ -1,8 +1,8 @@
 /*
 Theme Name: 3p3 - Child Theme
-Theme URI: 
+Theme URI:
 Author: owwwlab
-Author URI: 
+Author URI:
 Version: 1.0
 Description: Use this theme if you want to extend features of Eram theme or prevent overwriting the changes you make when new theme update is available.
 Tags: agency, architecture, blog, clean, creative, gallery, minimal, photography, portfolio, eram, translation-ready, theme-options, responsive-layout
@@ -10,3 +10,112 @@ Template: 3p3
 Text Domain: 3p3
 */
 
+/*HOME*/
+.contactanos{
+  font-size: 1.6em;
+  text-align: center;
+  font-weight: 600;
+  color: #808080 !important;
+}
+.nosotros{
+  font-size: 1.7em;
+  font-weight: 600;
+}
+.contacto{
+font-size: 1.5em;
+margin: 0px !important;
+}
+
+.quienes{
+  margin-top: 200px;
+}
+
+.page-contents p, .post-contents p {
+    margin: 0 0 0px !important;
+}
+
+.wpb-js-composer .vc_tta.vc_general .vc_tta-panels, .wpb-js-composer .vc_tta.vc_general .vc_tta-panels-container {
+    border-right: 1px solid #c8c8c8 !important;
+}
+
+.wpb-js-composer .vc_tta.vc_tta-accordion .vc_tta-controls-icon-position-left .vc_tta-controls-icon {
+    left: 267px !important;
+}
+
+.vc_tta.vc_tta-style-theme-eram .vc_tta-panel.vc_active .vc_tta-panel-heading .vc_tta-panel-title>a {
+  background-color: #444;
+  color: #000;
+}
+
+.vc_tta.vc_tta-style-theme-eram .vc_tta-panel .vc_tta-panel-heading .vc_tta-panel-title>a {
+    background-color: transparent !important;
+}
+
+.vc_tta.vc_tta-style-theme-eram .vc_tta-panel.vc_active .vc_tta-panel-heading .vc_tta-panel-title>a {
+    background-color: transparent !important;
+    color: #808080 !important;
+}
+
+.wpb-js-composer .vc_tta.vc_general .vc_tta-panel-title>a {
+    font-size: 1.8em;
+    font-weight: 500;
+    color: #808080 !important;
+}
+
+/*CONTACTO*/
+.page.layout-header-side .page-contents .page-title:after {
+     background-color: transparent !important;
+}
+
+.page.layout-header-side .page-contents .page-title {
+    margin-bottom: 35px !important;
+}
+
+/*PROYECTOS*/
+.gallery-page-title-side .title {
+    font-size: 30px;
+    font-weight: 500;
+    border-bottom: 1px solid;
+    width: 40%;
+    padding: 0 0 15px 0;
+}
+/*MEDIAS*/
+
+@media only screen and (min-width: 1200px) and (max-width: 1440px){
+  .contacto{
+    margin-left: -20% !important;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+  .contacto{
+    margin-left: -40% !important;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px){
+  .contacto{
+    margin-left: -40% !important;
+  }
+  .quienes{
+    margin-top: 10px;
+  }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 768px){
+  .contacto{
+    margin-left: 0% !important;
+  }
+  .quienes{
+    margin-top: 0px;
+  }
+}
+
+@media only screen and (min-width: 200px) and (max-width: 600px){
+  .contacto{
+    margin-left: -160px !important;
+  }
+  .quienes{
+    margin-top: 0px;
+  }
+}

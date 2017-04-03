@@ -70,7 +70,7 @@
   <?php }?>
 </div>
 <div class="page-contents">
-  
+
   <div class="em-sticky-wrapper">
     <div class="sticky-anchor"></div>
     <div class="sticky-elem em-proof-bar">
@@ -155,7 +155,7 @@
   <?php }?>
 </div>
 <?php if (Eram_kirki::get_option('eram_theme_options','eram_footer_for_proof_galleries',0) == 1) {?>
-  
+
   <?php eram_footer();?>
 
 <?php }?>
