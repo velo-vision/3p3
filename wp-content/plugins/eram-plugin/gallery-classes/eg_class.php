@@ -180,10 +180,10 @@ class eg_class
     protected function get_img_html( $imgID, $img )
     {
         $img_html = "<div class='img-wrapper {$this->get_image_wrapper_class()}'>";
-        $img_html .= "<img 
-                            class='{$this->get_img_class()}' 
-                            src='{$this->get_image_source($img,$imgID)}' 
-                            width='{$img[1]}' 
+        $img_html .= "<img
+                            class='{$this->get_img_class()}'
+                            src='{$this->get_image_source($img,$imgID)}'
+                            width='{$img[1]}'
                             height='{$img[2]}'
                             {$this->get_img_extra_atts($img)}>";
 
@@ -221,7 +221,7 @@ class eg_class
             }
 
             $o .= $caption;
-            $o .= "<div class='hover-icon'>";
+            $o .= "<div class='hover-icon'>cdb<br>2.9 ";
             $o .= '</div><!-- .hover-icon-->';
             $o .= $img_html;
             $o .= '</div><!-- .lightbox-item-->';

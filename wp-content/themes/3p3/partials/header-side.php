@@ -24,13 +24,13 @@
             <div class="centred-section">
               <?php if (has_nav_menu('primary-menu')) {?>
                 <div class="slide-menu-wrapper">
-                  <?php wp_nav_menu( array( 
+                  <?php wp_nav_menu( array(
                     'theme_location'    => 'primary-menu',
                     'menu_id'           => 'slide-menu',
                     'container'         => false,
                     'link_before'       => '<span>',
                     'link_after'        => '</span>'
-                    ) 
+                    )
                     );
                   ?>
                 </div>
@@ -55,10 +55,15 @@
 
           </ul>
         <?php }?>
+    <!-- Redes sociales -->
+        <div class="icon" style="text-align:center;">
+          <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+          <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+        </div>
+    <!-- Fin redes sociales -->
         <?php if (Eram_Kirki::get_option('eram_theme_options','eram_show_sidebar_cprtext')) {?>
           <div class="er-cprtext">
             <?php echo wpautop(Eram_Kirki::get_option('eram_theme_options','eram_page_footer_cprtext'))?>
-
           </div>
         <?php }?>
       </div>

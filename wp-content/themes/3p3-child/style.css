@@ -10,36 +10,69 @@ Template: 3p3
 Text Domain: 3p3
 */
 
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i');
+
 /*HOME*/
 .contactanos{
   font-size: 1.6em;
   text-align: center;
   font-weight: 600;
+  font-family: 'Open Sans', sans-serif;
   color: #808080 !important;
 }
 .nosotros{
   font-size: 1.7em;
   font-weight: 600;
+  font-family: 'Open Sans', sans-serif;
+  color: #363636;
 }
 .contacto{
-font-size: 1.5em;
+font-size: 1.4em;
+font-family: 'Open Sans', sans-serif;
 margin: 0px !important;
 }
 
+.side-contents .title{
+  display: none;
+}
+
+.vcenter .title{
+  text-transform: uppercase;
+}
+
+.wpb-js-composer .vc_tta.vc_general .vc_tta-panel-title>a {
+    font-family: 'Open Sans', sans-serif;
+}
+
 .quienes{
-  margin-top: 200px;
+  margin-top: 100px;
 }
 
 .page-contents p, .post-contents p {
     margin: 0 0 0px !important;
 }
 
-.wpb-js-composer .vc_tta.vc_general .vc_tta-panels, .wpb-js-composer .vc_tta.vc_general .vc_tta-panels-container {
-    border-right: 1px solid #c8c8c8 !important;
+.gallery-page-title-side .title {
+    margin: 0 auto;
+}
+/*flechas imagenes*/
+.eram-lightbox-light .lg-actions .lg-next, .eram-lightbox-light .lg-actions .lg-prev {
+    background-color: transparent !important;
+    color: #999999 !important;
+    font-size: 2em;
 }
 
+.eram-lightbox-light .lg-actions .lg-next:focus, .eram-lightbox-light .lg-actions .lg-next:hover, .eram-lightbox-light .lg-actions .lg-prev:focus, .eram-lightbox-light .lg-actions .lg-prev:hover {
+    color: #fff !important;
+}
+/*fin*/
+
+/*.wpb-js-composer .vc_tta.vc_general .vc_tta-panels, .wpb-js-composer .vc_tta.vc_general .vc_tta-panels-container {
+    border-right: 1px solid #c8c8c8 !important;
+}*/
+
 .wpb-js-composer .vc_tta.vc_tta-accordion .vc_tta-controls-icon-position-left .vc_tta-controls-icon {
-    left: 267px !important;
+    left: 300px !important;
 }
 
 .vc_tta.vc_tta-style-theme-eram .vc_tta-panel.vc_active .vc_tta-panel-heading .vc_tta-panel-title>a {
@@ -62,6 +95,12 @@ margin: 0px !important;
     color: #808080 !important;
 }
 
+/*NOSOTROS*/
+.vc_custom_1491257476687{
+    border-right: 2px solid #c8c8c8 !important;
+    margin-top: 15%;
+}
+
 /*CONTACTO*/
 .page.layout-header-side .page-contents .page-title:after {
      background-color: transparent !important;
@@ -70,15 +109,75 @@ margin: 0px !important;
 .page.layout-header-side .page-contents .page-title {
     margin-bottom: 35px !important;
 }
+/*background nosotros*/
+.page-id-1732{
+  background-image: url("img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: initial;
+}
+/*fin*/
 
 /*PROYECTOS*/
+/*background palabra proyectos*/
 .gallery-page-title-side .title {
     font-size: 30px;
     font-weight: 500;
     border-bottom: 1px solid;
-    width: 40%;
+    width: 45%;
     padding: 0 0 15px 0;
 }
+.gallery-page-title-side .gallery-side .vcenter {
+    padding: 0 50px;
+    background-image: url("img/fondo.jpg") !important;
+}
+/*fin*/
+/*background imagenes proyecto*/
+.gallery-wrapper.direction-horizontal .gallery-main {
+    height: 100%;
+    background-image: url("img/fondo.jpg");
+}
+/*fin*/
+.lg-outer .lg-item.lg-complete {
+    background:#000;
+}
+
+.em-hover.hover-1:focus:before, .em-hover.hover-1:hover:before {
+    background-color: rgba(0,0,0,.7) !important;
+}
+
+/*iconos*/
+.icon i{
+  text-align: center;
+  padding: 70px 10px;
+}
+
+/*hover proyectos*/
+.em-hover.hover-1 .hover-icon {
+    font-family: 'Open Sans', sans-serif;
+    width: 60px !important;
+    height: 60px !important;
+    background-color: #868686 !important;
+    color: #fff;
+    font-size: 1.3em;
+    font-weight: 400;
+    text-align: center;
+}
+
+.em-hover.hover-1 .hover-icon.touch-hover, .em-hover.hover-1 .hover-icon:focus, .em-hover.hover-1 .hover-icon:hover {
+    border-color: #fff !important;
+}
+
+/*cruz*/
+.em-hover.hover-1 .hover-icon:after, .em-hover.hover-1 .hover-icon:before {
+  display: none;
+}
+
+.em-hover.hover-1 .hover-icon:after {
+  display: none;
+}
+
+/*FIN PROYECTOS*/
+
 /*MEDIAS*/
 
 @media only screen and (min-width: 1200px) and (max-width: 1440px){
@@ -100,6 +199,10 @@ margin: 0px !important;
   .quienes{
     margin-top: 10px;
   }
+
+  .gallery-page-title-side .title {
+    width: 62%;
+  }
 }
 
 @media only screen and (min-width: 600px) and (max-width: 768px){
@@ -109,6 +212,12 @@ margin: 0px !important;
   .quienes{
     margin-top: 0px;
   }
+  .vc_custom_1491257476687 {
+    margin-top: 0px;
+}
+  .gallery-page-title-side .title {
+    width: 54%;
+  }
 }
 
 @media only screen and (min-width: 200px) and (max-width: 600px){
@@ -117,5 +226,11 @@ margin: 0px !important;
   }
   .quienes{
     margin-top: 0px;
+  }
+  .vc_custom_1491257476687 {
+    margin-top: 0px;
+}
+  .gallery-page-title-side .title {
+    width: 60%;
   }
 }
