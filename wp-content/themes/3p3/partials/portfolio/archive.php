@@ -119,7 +119,7 @@
   </div>
 </div>
 <?php if (Eram_kirki::get_option('eram_theme_options','eram_footer_for_portfolios',0) == 1) {?>
-  
+
   <?php eram_footer();?>
 
 <?php }?>

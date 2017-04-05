@@ -6,8 +6,7 @@
   <div class="gallery-side layout-vertical-padding">
     <div class="tb-vcenter-wrapper <?php echo $cover['class'];?>">
       <div class="vcenter" style="background-image:url(<?php echo $coverimage;?>);">
-        
-        <h1 class="title">
+        <h1 id="claseExtra" class="title">
           <?php if (is_post_type_archive()) {?>
             <?php echo eg_get_gallery_option( 'eg_page_title', 'Page Title','');?>
 
@@ -21,6 +20,16 @@
 
           <?php }?>
         </h1>
+        <?php if (is_post_type_archive()== 1) {?>
+                <script type="text/javascript">
+                  document.getElementById("claseExtra").className = "title-proyecto";
+                </script>
+          <?php  }else{?>
+            <script type="text/javascript">
+              $('#claseExtra').removeClass('titulojorch');
+            </script>
+        <?php  } ?>
+
         <div class="description">
           <?php if (is_tax()) {?>
             <?php echo term_description();?>

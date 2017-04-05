@@ -221,7 +221,8 @@ class eg_class
             }
 
             $o .= $caption;
-            $o .= "<div class='hover-icon'>cdb<br>2.9 ";
+            $o .= "<div class='hover-icon'>" . get_the_title( $ref_id ) . "";
+
             $o .= '</div><!-- .hover-icon-->';
             $o .= $img_html;
             $o .= '</div><!-- .lightbox-item-->';
