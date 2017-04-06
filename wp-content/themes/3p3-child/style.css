@@ -13,6 +13,16 @@ Text Domain: 3p3
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i');
 
 /*HOME*/
+
+body {
+    font-family: 'Open Sans', sans-serif !important;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.4;
+    letter-spacing: 0;
+}
+
 .contactanos{
   font-size: 1.6em;
   text-align: center;
@@ -72,7 +82,12 @@ margin: 0px !important;
 }*/
 
 .wpb-js-composer .vc_tta.vc_tta-accordion .vc_tta-controls-icon-position-left .vc_tta-controls-icon {
-    left: 300px !important;
+    left: 320px !important;
+}
+
+.wpb-js-composer .vc_tta .vc_tta-controls-icon {
+    height: 16px !important;
+    width: 16px !important;
 }
 
 .vc_tta.vc_tta-style-theme-eram .vc_tta-panel.vc_active .vc_tta-panel-heading .vc_tta-panel-title>a {
@@ -90,7 +105,7 @@ margin: 0px !important;
 }
 
 .wpb-js-composer .vc_tta.vc_general .vc_tta-panel-title>a {
-    font-size: 1.8em;
+    font-size: 2em;
     font-weight: 500;
     color: #808080 !important;
 }
@@ -102,6 +117,28 @@ margin: 0px !important;
 }
 
 /*CONTACTO*/
+.btn.btn-medium {
+    padding: 8px 30px !important;
+    font-size: 14px !important;
+}
+
+.wpb_wrapper h2{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+
+.wpb_wrapper strong {
+    font-weight: 600;
+}
+
+.contacto strong{
+  font-weight: 700;
+}
+
+.wpb_wrapper p {
+  font-family: 'Open Sans', sans-serif;
+}
+
 .page.layout-header-side .page-contents .page-title:after {
      background-color: transparent !important;
 }
@@ -112,6 +149,25 @@ margin: 0px !important;
 
 .page.layout-header-side .page-contents {
     padding: 45px 70px !important;
+}
+/*Hover de color*/
+.gallery-page-title-side .gallery-side {
+    width: 450px !important;
+    position: fixed;
+    height: 100vh;
+    top: 0;
+    overflow: visible;
+    opacity: initial !important;
+    padding-right: 0;
+    overflow: hidden;
+}
+
+.gallery-wrapper {
+    background-color: transparent !important;
+}
+/*Fin Hover de color*/
+.em-footer-section.no-widgets .footer-bottom.layout-centered .footer-bottom-wrapper {
+    padding-bottom: 20px !important;
 }
 /*background nosotros*/
 .page-id-1905{
@@ -133,12 +189,21 @@ margin: 0px !important;
 .gallery-page-title-side .gallery-side .vcenter {
     padding: 0 50px;
     background-image: url("img/fondo.jpg") !important;
+    background-size: cover;
 }
 /*fin*/
+
+/*Hover*/
+.em-hover.hover-1:focus:before, .em-hover.hover-1:hover:before {
+    background-color: transparent !important;
+    opacity: .1 !important;
+}
+/*Fin hover*/
 /*background imagenes proyecto*/
 .gallery-wrapper.direction-horizontal .gallery-main {
     height: 100%;
-    background-image: url("img/fondo.jpg");
+    background-image: url(img/fondo.jpg);
+    background-size: inherit;
 }
 /*fin*/
 .lg-outer .lg-item.lg-complete {
@@ -181,6 +246,8 @@ margin: 0px !important;
   border-bottom: 2px solid #7d7c7c;
   width: 52%;
   padding: 15px 0;
+  text-transform: uppercase;
+  margin: 0 auto;
 }
 
 .vcenter {
@@ -203,7 +270,7 @@ margin: 0px !important;
   margin: 0 auto !important;
   padding: 24px 0;
   border: 1px solid #fff;
-  text-transform: capitalize;
+  text-transform: uppercase;
 }
 
 .em-hover.hover-1 .hover-icon.touch-hover, .em-hover.hover-1 .hover-icon:focus, .em-hover.hover-1 .hover-icon:hover {
@@ -266,9 +333,22 @@ margin: 0px !important;
   .gallery-page-title-side .title {
     width: 62%;
   }
+
+  .vcenter .title-proyecto {
+    width: 64%;
+}
+
 }
 
 @media only screen and (min-width: 600px) and (max-width: 768px){
+  .vc_custom_1491257476687 {
+    margin-top: 5%;
+}
+
+.vc_custom_1491337984431 {
+    margin-top: 10% !important;
+}
+
   .vcenter .title-proyecto {
     width: 64%;
 }
@@ -278,9 +358,6 @@ margin: 0px !important;
   .quienes{
     margin-top: 0px;
   }
-  .vc_custom_1491257476687 {
-    margin-top: 0px;
-}
   .gallery-page-title-side .title {
     width: 54%;
   }
@@ -296,10 +373,23 @@ margin: 0px !important;
   .quienes{
     margin-top: 0px;
   }
-  .vc_custom_1491257476687 {
-    margin-top: 0px;
-}
   .gallery-page-title-side .title {
     width: 60%;
   }
+  .wpb-js-composer .vc_tta.vc_general .vc_tta-panel-title>a {
+      font-size: 1.5em;
+  }
+  .vc_custom_1491257476687 {
+    border-right: none !important;
+    margin-top: 5%;
+}
+.vc_separator.vc_sep_color_black .vc_sep_line {
+    border-color: #2A2A2A;
+    width: 140% !important;
+}
+
+.vc_col-sm-6 {
+    margin-bottom: 0px !important;
+}
+
 }

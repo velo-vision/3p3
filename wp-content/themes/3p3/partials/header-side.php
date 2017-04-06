@@ -55,12 +55,6 @@
 
           </ul>
         <?php }?>
-    <!-- Redes sociales -->
-        <div class="icon" style="text-align:center;">
-          <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-          <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-        </div>
-    <!-- Fin redes sociales -->
         <?php if (Eram_Kirki::get_option('eram_theme_options','eram_show_sidebar_cprtext')) {?>
           <div class="er-cprtext">
             <?php echo wpautop(Eram_Kirki::get_option('eram_theme_options','eram_page_footer_cprtext'))?>
@@ -82,10 +76,18 @@
               Menu
             </div>
           </a>
+
         </div>
+
       </div>
     <?php }?>
     <div id="fixed-bottom-area">
+      <!-- Redes sociales -->
+          <div class="icon" style="text-align:center;">
+            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+            <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+          </div>
+      <!-- Fin redes sociales -->
       <!-- audio player wrapper -->
       <div class="audio-player-wrapper"></div>
     </div>
